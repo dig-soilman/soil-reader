@@ -1,0 +1,431 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+-->
+<html>
+	<head>
+		<title>Porosity</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="https://enviro-soil.com/soils101/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://enviro-soil.com/soils101/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="https://enviro-soil.com/soils101/assets/css/ie8.css" /><![endif]-->
+		<meta name="author" content="Donald G. McGahan, Ph.D."/>
+		<style type="text/css">
+			.unselectable {
+			  -webkit-user-select: none;  /* Chrome all / Safari all */
+			  -moz-user-select: none;     /* Firefox all */
+			  -ms-user-select: none;      /* IE 10+ */
+			  user-select: none;          /* Likely future */       
+			  -webkit-touch-callout: default   /* displays the callout */
+			  -webkit-touch-callout: none      /* disables the callout */
+			}
+		</style>
+	</head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<header id="header" class="container">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="https://enviro-soil.com/soils101/index.html">Soils Reader</a></h1>
+								<span>by Donald G. McGahan</span>
+							</div>
+						<!-- end Logo -->
+							
+<!-- Nav -->
+	<nav id="nav">
+	<ul>
+		<li><a href="#">Content</a>
+			<ul>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Introduction.html">Introduction</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/functions.html">Functions</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/complexity.html">Complexity</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Physical_Properties.html">Physical Properties</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/size-separates.html">Size Separates</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/textural-classes.html">Textural Class</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/particle-arrangement.html">Particle Arrangement</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/density.html">Density</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/porosity.html">Porosity</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/soil_color.html">Color</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/engineering.html">Engineering</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/erosion.html">Erosion</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Chemical.html">Chemical</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/mineralogy.html">Mineralogy</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/acidity.html">Acidity</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/alkalinity.html">Alkalinity</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Climate.html">Climate</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/water.html">Water</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/aeration.html">Aeration</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/temperature.html">Temperature</a></li>
+					</ul>				
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Biology.html">Biology</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/ecology.html">Ecology</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/organisms.html">Organisms</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/organic_matter.html">Organic Matter</a></li>
+					</ul>	
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Classification.html">Classification</a>				
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/differentiation.html">Differentiation</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/comparing.html">Comparing</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Mineral_Nutrition_for_Plants.html">Mineral Nutrition for Plants</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/nitrogen.html">Nitrogen</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/phosphorus.html">Phosphorus</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/potassium.html">Potassium</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/sulfur.html">Sulfur</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/calcium.html">Calcium</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/magnesium.html">Magnesium</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/micronutrients.html">Micronutrients</a></li>
+	
+					</ul>
+				</li>
+			</ul>
+			</li>
+		<!--<li class="current"><a href="./index.html">Introduction</a></li>-->
+		<!--<li><a href="https://enviro-soil.com/enviro-soil/index.html">Back to Enviro-Soil</a></li>-->
+	</ul>
+	</nav>
+<!-- end Nav -->
+
+						
+					</header>
+				</div>
+			<!-- end Header -->
+
+			<!-- Main -->
+			
+				<div id="main-wrapper">
+					<div class="container">
+						<div id="content">
+		
+<!-- Content -->
+
+	<article>
+	<!--<div unselectable="on" class="unselectable">-->
+		
+		<h2 id="porosity">Porosity</h2>
+		<p>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</p>
+		<p>See the Glossary for a definition of porosity <a href="../includes/Glossary.html#porosity">&#8505;</a>.</p>
+		
+		<h3>Air-Water Relationships</h3>
+		
+	  		<p>The first initial approach to soil solids, air, and water that compose the total is, not surprisingly, on a volume basis. We do this first, but it is reasonable to recognize that we can transform the three dimensional volume into other forms. These other forms are handy when we consider movement of air and water within the soil. </p>
+	  		
+	  		<p>Most introductory presentations of soils state that the relationship of soil solids to the soil pores is about half and half. While this is surprising to some learners, when they first are presented with this &#8220;quick and rough&#8221; estimation it does not take long to accept. We all have experienced water infiltrating into the soil and we are all aware that plants mine water from the soil. So, the &#8220;half and half&#8221; is in the ballpark, but the soils can have more or less pores than half.</p>
+	  		
+	  		<p>The half and half, solids and pores, rough description, once accepted, is only the beginning. To understand how air and water are related to each other in the soil we must also understand how they are related to the solids of the soil. <i>Spoiler alert</i>: water likes the solids. Well, to be honest, water also likes itself.</p>
+	  		
+	  		<p>To observe and record the amount of water and air in pores takes only a little effort and knowledge in its simplest form. We build on these air, water, and solid relationships in a myriad of ways to help explain so many natural resource phenomena.</p>
+  		
+  		<h4>Volume Relationships</h4>
+  		
+	  		<p>The following presentation starts with defining variables to make communication less cumbersome. Defining and agreeing on the variables (symbols) is very necessary for communication, and is a large part of the skills necessary for any learner. </p>
+			
+			<blockquote>
+			<p>Let us represent the total volume of pores in the soil as V<sub>P</sub><br/>
+			Let us represent the volume of water in the soil pores as V<sub>W</sub><br/>
+			Let us represent the volume of air in the soil pores as V<sub>A</sub> </p>
+			</blockquote>
+			
+			<p>Where:</p>
+			
+			<ul style="list-style-type: none; padding: 0px 0px 0px 32px">
+				<li>V = volume</li>
+				<li>A = air</li>
+				<li>W = water</li>
+				<li>P = pore</li>
+			</ul>
+			
+			<p>We can represent the fraction of the pore volume (V<sub>P</sub>) that is occupied by air (V<sub>A</sub>) or water (V<sub>W</sub>). </p>
+			
+			<ul style="list-style-type: none; padding: 0px 0px 0px 32px">
+				<li>V<sub>A</sub> = V<sub>P</sub> - V<sub>W</sub></li>
+				<li>Vw = V<sub>P</sub> - V<sub>A</sub></li>
+				<li>V<sub>P</sub> = V<sub>A</sub> + V<sub>W</sub></li>
+			</ul>
+			
+			<p>We need more terms to help us describe and discuss some soil air water relationships. </p>
+			
+			<blockquote>
+			<p>Let us represent the volume of the entire soil (total volume) as V<sub>T</sub>.<br/>
+			Let us represent the volume of the solids in the soil as V<sub>S</sub>. </p>
+			</blockquote>
+			
+			<p>Where: </p>
+			
+			<ul style="list-style-type: none; padding: 0px 0px 0px 32px">
+				<li>T = total</li>
+				<li>S = solids</li>
+			</ul>
+			
+			<p>Therefore: V<sub>T</sub> = V<sub>A</sub> + V<sub>W</sub> + V<sub>S</sub> </p>
+			
+			<p>Every beginning learner should practice reproducing the above, or similar for alternate symbols, prior to using variables in representing these fractions in conversations and equations (to solve problems).</p>
+			
+			<p>One obvious use of the above relationships is a way to track water. Since plants mine water from the soil, the volume of water in the pores changes over time. When water is added back to the soil the volume of water in the soil pores increases.</p>
+			
+			<p>Unsurprisingly, each plant has a preference for how easily available water is. If the water is too difficult to withdraw from the soil the plant suffers. Too much water and the roots can drown. So, each plant species has a range of ability to withdraw water from the soil, and a tolerance for how little air in the pores can exist.</p>
+			
+			<p>Relating this with volumes is most straight forward when we consider the volume of the water (V<sub>W</sub>) with respect to the total volume (V<sub>T</sub>). This is called the volumetric water content (&theta;<sub>V</sub>). The &theta;<sub>V</sub> can be as great as V<sub>P</sub>, but no greater. When &theta;<sub>V</sub> is equal to V<sub>P</sub> we give it special name: <strong>saturated</strong>. Recall that saturated is not desirable for plants because they need air for their roots.</p>
+			
+			<p>&theta;<sub>V</sub> = V<sub>W</sub> / V<sub>T</sub>.</p>
+		
+		
+			<p><em>Want to see the calculations in practice or practice this skill? Go to the Math's help page.</em> <a href="https://enviro-soil.com/soils101//includes/Math_helps.html">&#8505;</a></p>
+
+		
+		<h4>Mass relationships</h4>
+		
+		<p>We also are going to need to know the mass of the air, water, and solids of the total soil, so let that be M<sub>T</sub>. </p>
+		
+		<p>Also, let the mass of the solids be M<sub>S</sub>. </p>
+		
+		<figure>
+			<caption>Figure -- From Singer, M.J. and D.N. Munns. 2006. Soils: An Introduction. Pearson.</caption>
+		<img src="https://enviro-soil.com/soils101/images/Figure3-4SingerMunns2006IdealSoilVolume.png" style="height:574;width:484;" />
+		</figure>
+		
+		<a name="Porosity"></a>
+		<h3>Porosity</h3>
+		
+		<p><strong>Porosity</strong> \(\left(\eta\right)\) is the fraction of soil volume occupied by air and water (non-solids). Soil porosities range from 0.30 to 0.60 (or 30% to 60%) for most soils.</p>
+		
+		<p>\(\eta = \frac{\left(\text{V}_{\text{a}} + \text{V}_{\text{w}}\right)}{\text{V}_{\text{t}}}\) where eta \(\left(\eta\right)\) is porosity \(\text{V}\) is volume, \(\text{t}\) is total, \(\text{a}\) is air fraction of the pores, and \(\text{w}\) is water fraction of the pores.</p>
+		
+		<p>\(\eta = \frac{\left(\text{V}_{\text{a}} + \text{V}_{\text{w}}\right)}{\left(\text{V}_{\text{a}} + \text{V}_{\text{w}} + \text{V}_{\text{s}}\right)}\) where \(\text{s}\) is solids. And therefore \(\text{V}_{\text{t}}=\text{V}_{\text{a}} + \text{V}_{\text{w}} + \text{V}_{\text{s}}\)</p>
+		
+		<p>Porosity can be derived from \(\rho_{\text{s}}\) and \(\rho_{\text{b}} \).</p>
+		
+		<p>\(\eta =\left(1-\frac{\rho_{\text{b}}}{\rho_{\text{s}}}\right)\)</p>
+		
+		<p>\(\% \eta =\left(1-\frac{\rho_{\text{b}}}{\rho_{\text{s}}}\right)\times 100\)</p>
+		
+		<p>Example: What is the porosity of a soil which has a \(\rho_{\text{b}}=1.80 \frac{\text{g}}{\text{cm}^3} \) and a \(\rho_{\text{s}}=2.65 \frac{\text{g}}{\text{cm}^3} \)?<br />
+		%  \(\eta\) =  32%</p>
+		
+		<p style="padding: 0px 44px 0px 49px;"><strong>Memorize the above equation, be able to rearrange it to find a solution for any variable.</strong></p>
+		
+		<p>Porosity varies with:</p>
+		
+		<ol class="reader">
+			<li>Texture.
+				<ul class="readerSub">
+					<li>clay-rich soils have greater porosity than sandy soils.</li>
+				</ul>
+			</li>
+			<li>Soil structure.
+				<ul class="readerSub">
+					<li>aggregate size and type</li>
+				</ul>
+			</li>
+			<li>Bulk density</li>
+		</ol>
+		
+		<dl>
+			<dt>Macropores</dt>
+			<dd>larger pores (diameter &gt; 0.08 mm) (<a href="https://enviro-soil.com/soils101/includes/Glossary.html#macropore">&#8505;</a>)</dd>
+		</dl>
+		
+		<dl>
+			<dt>Micropores</dt>
+			<dd>smaller pores (diameter &lt; 0.08 mm) (<a href="https://enviro-soil.com/soils101/includes/Glossary.html#micropore">&#8505;</a>)</dd>
+		</dl>
+		
+		<figure>
+			<img  width="512" height="352" src="https://enviro-soil.com/soils101/images/poreDistributionByTexturalClass.jpg">
+			<figcaption style="padding: 0px 0px 0px 20px;">Figure -- Pore Size Distribution By Textural Class.</figcaption>
+		</figure>
+		
+		<p>Water and air move rapidly through macropores and much slower through micropores. Sandy soils have mainly macropores. Clay soils have mainly micropores. Thus, water and air flow rapidly through sandy soils and slowly through soils high in clay.</p>
+		
+		
+		<h4>Types of pores</h4>
+		
+		<ol class="reader">
+			<li>Interparticle.
+				<ul class="readerSub">
+					<li>the spaces occurring between the individual soil particles</li>
+				</ul>
+			</li>
+			<li>Interaggregate.
+				<ul class="readerSub">
+					<li>the space occurring between soil aggregates</li>
+				</ul>
+			</li>
+			<li>Biopores.
+				<ul class="readerSub">
+					<li>pores created by biological activity (<em>e.g.,</em> roots and earthworms)</li>
+				</ul>
+			</li>
+		</ol>
+		
+		
+		<a name="Reduction.in.porosity.can.result.from:"></a>
+		<h4>Reduction in porosity can result from:</h4>
+		
+		<ol style="list-style-type: upper-roman;padding-left: 2.8em;">
+		<li>Compaction
+			<ol style="list-style-type: lower-roman;padding-left: 2.8em;">
+				<li>Increases bulk density and decreases porosity by compressing particles closer together</li>
+				<li>Reduces total pore space; reduces macropore space; increases micropore space</li>
+				<li>ρ<sub>b</sub> &gt; 1. 5 to 1.9 \(\frac{\text{g}}{\text{cm}³}\) restricts root extension and greatly reduces water and air movement</li>
+			</ol>
+		
+		<li>Conventional Tillage</li>
+			<ol class="reader">
+				<li>Loss of organic matter - an important binding agent holding aggregates together</li>
+				<li>Destruction of aggregates due to physical disturbance and mixing</li>
+				<li>Loss of biopores by mixing.</li>
+			</ol>
+		
+		<li>Crusts at Soil Surface</li>
+			<ol class="reader">
+				<li>pores become clogged and average pore size is reduced</li>
+				<li>clays are dispersed (aggregated clays broken down into individual particles) especially in sodium (Na) affected soils</li>
+				<li>raindrop impact energy breaks down aggregation</li>
+			</ol>
+		</ol>
+		
+		<h4>How can you improve porosity?</h4>
+		
+		<ol style="list-style-type: upper-roman; padding: 0px 0px 0px 32px">
+			<li>Proper tillage to reduce bulk density caused by compaction</li>
+			<li>Incorporation of organic matter which promotes structure formation</li>
+			<li>Prevent surface crust formation</li>
+			<ol style="list-style-type: lower-roman; padding: 0px 0px 0px 32px">
+				<li>Leave organic matter on surface to break raindrop impact.</li>
+				<li> If soil is affected by sodium, apply gypsum (CaSO₄) to flocculate (bind) clay particles into stable aggregates.</li>
+			</ol>
+		</ol>
+		</div>
+
+									
+								</div>
+								</article>
+							<!-- end Content -->
+		
+						</div>
+					</div>
+				</div>
+		
+			<!-- end Main -->
+
+<!-- Footer -->
+<div id="footer-wrapper">
+	<footer id="footer" class="container">
+		<div class="row">
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Additional Resources</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/soils101/includes/Glossary.html">Glossary</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Math-helps.html">Maths helps</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Chemistry-helps.html">Chemistry helps</a></li>
+							<li><a href="">Physics helps</a></li>
+						</ul>
+					</section>
+					
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Other Portals</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/enviro-soil/index.html">Enviro-Soil</a></li>
+						</ul>
+					</section>
+					
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Unattached Pages</h3>
+						<ul class="style2">
+							<li><a href=""></a></li>
+						</ul>
+					</section>
+					
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="12u">
+				<div id="copyright">
+					<ul class="menu">
+						<li>Tested only in Firefox web browser</li>
+						<li></li>
+						<li>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<ul id="footer-wrapper">
+		<p>By accessing enviro-soil.com, you acknowledge that all enviro-soil Content is the property of enviro-soil. Visitors and Subscribers are granted a limited, revocable, non-sublicensable and non-transferable license to access enviro-soil for personal, non-commercial use. No intellectual property rights in any enviro-soil content are transferred to you.</p>
+		<p>As a user of enviro-soil.com you may not: (a) store or archive, download or cache, publish, republish or redistribute, communicate or disseminate, alter, adapt, amend, incorporate, merge, sell, translate, localize, copy or otherwise alter any enviro-soil content, including, but not limited to, articles, text, photographs, graphics, artwork, images, tables, data, files, video or audio in any way; (b) create derivative works from the enviro-soil content; (c) view enviro-soil content anywhere but on enviro-soil.com; (d) print, photocopy or scan articles on enviro-soil.com or copies of articles.</p>
+	</ul>
+	</footer>
+</div>
+<!-- end Footer -->
+
+	<!-- Scripts -->
+		<script src="https://enviro-soil.com/soils101/assets/js/jquery.min.js"></script>
+		<script src="https://enviro-soil.com/soils101/assets/js/jquery.dropotron.min.js"></script>
+		<script src="https://enviro-soil.com/soils101/assets/js/skel.min.js"></script>
+		<script src="https://enviro-soil.com/soils101/assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="https://enviro-soil.com/soils101/assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="https://enviro-soil.com/soils101/assets/js/main.js"></script>
+		<script>
+	        window.onload = function() {
+	            var labels = document.getElementsByTagName('label');
+	            for (var i = 0; i < labels.length; i++) {
+	                disableSelection(labels[i]);
+	            }
+	        };
+	        function disableSelection(element) {
+	            if (typeof element.onselectstart != 'undefined') {
+	                element.onselectstart = function() { return false; };
+	            } else if (typeof element.style.MozUserSelect != 'undefined') {
+	                element.style.MozUserSelect = 'none';
+	            } else {
+	                element.onmousedown = function() { return false; };
+	            }
+	        }
+		</script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+	<!-- End Scripts -->
+</body>
+</html>

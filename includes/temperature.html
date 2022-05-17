@@ -1,0 +1,422 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+-->
+<html lang="en">
+	<head>
+		<title>Soil Temperature</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="https://enviro-soil.com/soils101/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://enviro-soil.com/soils101/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="https://enviro-soil.com/soils101/assets/css/ie8.css" /><![endif]-->
+		<meta name="author" content="Donald G. McGahan, Ph.D."/>
+		<style type="text/css">
+			.unselectable {
+			  -webkit-user-select: none;  /* Chrome all / Safari all */
+			  -moz-user-select: none;     /* Firefox all */
+			  -ms-user-select: none;      /* IE 10+ */
+			  user-select: none;          /* Likely future */       
+			  -webkit-touch-callout: default   /* displays the callout */
+			  -webkit-touch-callout: none      /* disables the callout */
+			}
+		</style>
+	</head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<header id="header" class="container">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="https://enviro-soil.com/soils101/index.html">Soils Reader</a></h1>
+								<span>by Donald G. McGahan</span>
+							</div>
+						<!-- end Logo -->
+							
+						<!-- Nav -->
+							<nav id="nav">
+							<ul>
+								<li><a href="#">Content</a>
+									<ul>
+										<li>
+											<a href="https://enviro-soil.com/soils101/includes/Introduction.html">Introduction</a>
+											<ul>
+												<li><a href="https://enviro-soil.com/soils101/includes/functions.html">Functions</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/complexity.html">Complexity</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="https://enviro-soil.com/soils101/includes/Physical_Properties.html">Physical Properties</a>
+											<ul>
+												<li><a href="https://enviro-soil.com/soils101/includes/size-separates.html">Size Separates</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/textural-classes.html">Textural Class</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/particle-arrangement.html">Particle Arrangement</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/density.html">Density</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/porosity.html">Porosity</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/soil_color.html">Color</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/engineering.html">Engineering</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/erosion.html">Erosion</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="https://enviro-soil.com/soils101/includes/Chemical.html">Chemical</a>
+											<ul>
+												<li><a href="https://enviro-soil.com/soils101/includes/mineralogy.html">Mineralogy</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/acidity.html">Acidity</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/alkalinity.html">Alkalinity</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="https://enviro-soil.com/soils101/includes/Climate.html">Climate</a>
+											<ul>
+												<li><a href="https://enviro-soil.com/soils101/includes/water.html">Water</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/aeration.html">Aeration</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/temperature.html">Temperature</a></li>
+											</ul>				
+										</li>
+										<li>
+											<a href="https://enviro-soil.com/soils101/includes/Biology.html">Biology</a>
+											<ul>
+												<li><a href="https://enviro-soil.com/soils101/includes/ecology.html">Ecology</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/organisms.html">Organisms</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/organic_matter.html">Organic Matter</a></li>
+											</ul>	
+										</li>
+										<li>
+											<a href="https://enviro-soil.com/soils101/includes/Classification.html">Classification</a>				
+											<ul>
+												<li><a href="https://enviro-soil.com/soils101/includes/differentiation.html">Differentiation</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/comparing.html">Comparing</a></li>
+											</ul>
+										</li>
+										<li>
+											<a href="https://enviro-soil.com/soils101/includes/Mineral_Nutrition_for_Plants.html">Mineral Nutrition for Plants</a>
+											<ul>
+												<li><a href="https://enviro-soil.com/soils101/includes/nitrogen.html">Nitrogen</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/phosphorus.html">Phosphorus</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/potassium.html">Potassium</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/sulfur.html">Sulfur</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/calcium.html">Calcium</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/magnesium.html">Magnesium</a></li>
+												<li><a href="https://enviro-soil.com/soils101/includes/micronutrients.html">Micronutrients</a></li>
+							
+											</ul>
+										</li>
+									</ul>
+									</li>
+								<!--<li class="current"><a href="./index.html">Introduction</a></li>-->
+								<!--<li><a href="https://enviro-soil.com/enviro-soil/index.html">Back to Enviro-Soil</a></li>-->
+							</ul>
+							</nav>
+						<!-- end Nav -->
+						
+					</header>
+				</div>
+			<!-- end Header -->
+			
+			<!-- Main -->
+				<div id="main-wrapper">
+					<div class="container">
+						<div id="content">
+
+<!-- Content -->
+<article>
+<!--<div unselectable="on" class="unselectable">-->
+
+<a name="Soil.Temperature"></a>
+<h2 id="temperature">Soil Temperature</h2>
+
+<p>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</p>
+
+<a name="Heat.Energy"></a>
+<h3>Heat Energy</h3>
+
+  <p>The heat energy in a soil is important because it impacts chemical and biological process within the soil. Specifically the impact is on rates of chemical and biological reactions. A generalization is that more heat energy in the soil speeds up reactions. However, if the heat energy is great it can be detrimental to biological reactions.</p>
+  
+  <p>The following discussion will define temperature, heat flow transfer by <strong>conduction</strong>, <strong>radiation</strong>, and <strong>convection</strong>. Convection is very minor in soil so only radiation and conduction will be covered in this treatment of heat flow in soils.</p>
+  
+  <p>Soil is the Earth's reactive surface. Energy, water, and chemicals flow into, through, and out of the <strong>pedon</strong>.</p>
+  
+  <dl>
+    <dt>Pedon</dt>
+    <dd>A three-dimensional body of soil that is the soil individual. A pedon with lateral dimensions large enough to permit the study of horizon shapes and relations. It is no smaller than one meter square to a depth of ‘not soil’ and is no larger than eight meters to a depth of ‘not soil’.</dd>
+  </dl>
+
+<a name="Irradiation.and.Heating"></a>
+<h3>Irradiation and Heating</h3>
+
+  <p>Transmitted, scattered, and reflected radiation remain radiation; only the direction is changed. But when radiant energy is absorbed, it ceases to be radiation; it is converted to electrical or chemical energy, or, most usually, sensible heat. Sensible heat—ordinary, everyday heat—can be sensed or felt and consists of an increase in the motion of molecules in the materials.</p>
+  
+  <p>Sensible heat exists only in materials and requires a material medium, or conductor, to be transmitted. Radiant energy, by contrast, needs no media; it is sensed by people and thermometers after they have absorbed it and converted it to heat. In common usage (incorrectly), heat includes both "sensible heat" and certain kinds of radiation (e.g., we speak of 'heat lambs' and 'in the heat of the sun'), but in this lesson, heat means "sensible heat" and excludes all forms of radiation.</p>
+  
+  <p>Energy in the form of solar radiation strikes the pedon surface, where it may be absorbed or reflected. All soils normally gain heat by absorbing solar energy (shortwave radiation). Heat is then dissipated (spread or redistributed) by several processes: <strong>conduction</strong> from the hot surface to the subsurface and to the air, <strong>evaporation</strong> of water, and <strong>re-radiation</strong> (long-wave infrared) to the atmosphere and space.</p>
+  
+  <p>Daily heating and nightly cooling set up diurnal temperature fluctuations whose amplitude is greatest at the soil surface and progressively lower amplitude with depth. The extremes of soil temperature depend on (one) how much energy comes in, (two) how rapidly heat is dissipated, and (three) how much heat the soil absorbs for a given rise in temperature (a soils heat capacity).</p>
+  
+  <p>The control and management of soil temperature are dominated by two variables; soil cover and soil water content. Soil cover moderates soil temperature extremes because it blocks incoming radiation by day and impedes outgoing radiation and direct heat transfer from moving air by night. Soil water moderates extremes and temperature because water adds to the soils heat capacity, helps heat move through the soil, and cools the soil by evaporation.</p>
+
+<a name="Radiant.Heating.and.Heat.Dissipation"></a>
+<h3>Radiant Heating and Heat Dissipation</h3>
+
+  <p>Soils and plants are heated by the absorption of solar radiation, and they in turn heat the air. The input and dissipation of energy at the ground govern the temperature regimes in the soil and in the plant canopy. In consequence, they strongly influence other processes: air movement near the ground, evaporation, transpiration, and the transfer of carbon dioxide and oxygen.</p>
+  
+  <p>The intensity of heating —that is, the temperatures achieved— depends on the soils heat capacity, the rate of absorption of radiation, and the rate of heat dissipation.</p>
+
+<a name="What.is.temperature."></a>
+<h3>What is temperature?</h3>
+
+  <p>Temperature is a measure of heat energy which is the average kinetic energy of the particles in a substance.</p>
+
+<a name="Temperature.Notation"></a>
+<h4>Temperature Notation</h4>
+
+  <p>Three scales are used to describe temperature: the Fahrenheit (F), Centigrade (C) and Kelvin (absolute) (K) temperature scales. In the English (Fahrenheit) system, the freezing point of water is 32℉ and the boiling point is 212°F. In the metric (centigrade) system, 0℃ is defined as the temperature of freezing water and 100℃ as the temperature of boiling water (at atmospheric pressure). In physics and some other branches of science, zero is defined as the temperature at which mechanical motion of molecules should stop. This is "absolute" zero on the Kelvin (K) scale. Absolute zero is equal to -273℃ and -459℉. The freezing point of water, 0℃, is defined as 273 K.</p>
+
+<a name="Importance.of.Heat.Energy"></a>
+<h4>Importance of Heat Energy</h4>
+
+  <p>The heat energy in a soil is important because it impacts chemical and biological process within the soil. Specifically the impact is on rates of chemical and biological reactions. A generalization is that more heat energy in the soil speeds up reactions. However, if the heat energy is great it can be detrimental to biological reactions. The following discussion will define temperature, heat flow transfer by convection, radiation, and convection. Soil is the Earth's reactive surface. Energy, water, and chemicals flow into, through, and out of the <strong>pedon</strong>.</p>
+
+<a name="Distribution.of.Heat.Energy"></a>
+<h4>Distribution of Heat Energy</h4>
+
+  <p>Energy in the form of solar radiation strikes the pedon surface, where it may be absorbed or reflected. All soils normally gain heat by absorbing solar energy (shortwave radiation). Heat is then dissipated (spread, redistributed) by several processes: conduction from the hot surface to the subsurface and to the air, evaporation of water, and re-radiation (long-wave infrared) to the atmosphere and space. Daily heating and nightly cooling set up diurnal temperature fluctuations whose amplitude is greatest at the soil surface and progressively less with depth. The extremes of soil temperature depend on (one) how much energy comes in, (two) how rapidly heat is dissipated, and (three) how much heat the soil absorbs for a given rise in temperature (its heat capacity).</p>
+  
+  <p>The control and management of soil temperature are dominated by two variables; soil cover and soil water content. Soil cover moderates soil temperature extremes because it blocks incoming radiation by day and impedes outgoing radiation and heat transfer from moving air by night. Soil water moderates extremes and temperature because water adds to the soils heat capacity, helps heat move through the soil, and cools the soil by evaporation.</p>
+  
+  <p>The driving force for heat flow is the <strong>temperature gradient</strong>. Heat (energy) flows from hot to cold.</p>
+  
+  <p>Recall that the three ways heat moves is <strong>radiation</strong>, <strong>convection</strong>, and <strong>conduction</strong>.</p>
+
+  <h5>Radiation</h5>
+
+  <p><strong>Radiation</strong> is the emission or transfer of energy in the form of electromagnetic waves.</p>
+  
+  <p>The wavelength of radiation is inversely proportional to the temperature of the radiating body (as temperature increases, the wavelength of the emitted radiation decreases). The Sun (about 6,000 ℃) radiates short-wave radiation and the Earth (-27℃) radiates long-wave radiation.</p>
+  
+  <p>Solar radiation (short-wave radiation) is the primary source of energy to heat the soil. Approximately 50% of the suns energy reaches the earth's surface.</p>
+  
+  <p>Energy reaching the soil is i) reflected, ii) consumed by evapotranspiration, iii) reradiated back to atmosphere as thermal or long-wave radiation, or iv) consumed by heating the soil and air.</p>
+
+<a name="Conduction..Diffusive.Transfer."></a>
+<h5>Conduction (Diffusive Transfer)</h5>
+
+    <p><strong>Conduction</strong> is when heat moves through a solid or liquid via collisions between atoms, passing heat energy from one atom to the next.</p>
+
+  <p>Conduction is the principal way in which sensible heat moves in soil. The conduction of heat requires a heat-conductive material: a medium.</p>
+  
+  <p>Heat flows more rapidly through some media than others. Thermal conductivity (K) is a measure of a material's ability to transmit heat. For example, metals are excellent heat conductors, enhanced the popularity of metal cookware. Areas of poor heat conductor, hence the common use of air trapped in clothing, blankets, and household insulation to hold heat. Note that the air must be trapped and held stationary to be a good insulator and do a good job of impeding heat flow. When air water or fluids are free to mix or flow, they transmit heat rapidly, by processes (turbulent transfer and mass flow, discussed later) that are important in the atmosphere, but not in the soil, where fluids are nearly stationary.</p>
+  
+  <p>Conductive flow also depends on the area of the conductors cross-section perpendicular to the direction of flow. Flow per unit cross-sectional area is the <strong><em>flux</em></strong>.</p>
+  
+  <p>Finally, conductive flow depends on the driving force, the tendency for heat to flow. This driving force is the gradient of temperature. Heat tends to flow from the hotter to the cooler parts of a connected system (just as water tends to flow from wetter to drier parts of the soil). Heat flow is a process in which excited hot molecules share their excitement with the cooler neighbors. It is this excitement—the rotational and vibrational energy of molecules—that flows. The process is slow because it depends on individual interactions among molecules more or less fixed in place. Net heat flow stops when it has eliminated temperature differences throughout the system—that is, when the system has reach thermal equilibrium. Thermal equilibrium is unusual in soils.</p>
+  
+    <p><strong>Heat flow</strong>: The mathematical formula to describe the movement of heat.</p>
+  
+  <p>\(\frac{\text{Q}}{\text{A}\cdot \text{t}} = \text{K}\cdot \frac{\Delta \text{T}}{\Delta \text{x}}\)</p>
+  
+  <p style=" padding: 0px 0px 0px 32px">T = temperature; ΔT is the difference in temperature between two<br>
+  points</p>
+  
+  <p style=" padding: 0px 0px 0px 32px">x = distance; Δx is the change in distance between two points</p>
+  
+  <p style=" padding: 0px 0px 0px 32px">K = the <strong>thermal conductivity</strong> (a measure of how fast heat flows through a material)</p>
+  
+  <p style=" padding: 0px 0px 0px 32px">Relative K values: rock ≈ 4 -- 7; water ≈ 1.4; air ≈ 0.06 (mcal/s cm ℃)</p>
+  
+  <p style=" padding: 0px 0px 0px 32px">Q = heat flow (<strong>calorie</strong> is a common unit of heat or energy; 1 Food calorie = 1000 heat calories)</p>
+  
+  <p style=" padding: 0px 0px 0px 32px">A = area</p>
+  
+  <p style=" padding: 0px 0px 0px 32px">t = time</p>
+
+<a name="Most.importantly..heat.flow.depends.on.two.things:"></a>
+<h3>Most importantly, heat flow depends on two things:</h3>
+
+  <ol style="list-style-type: upper-roman; padding: 0px 0px 0px 32px">
+	  <li>Heat flow is proportional to <strong><em>thermal conductivity</em></strong>.</li>
+	  <ol style="list-style-type: lower-roman; padding: 0px 0px 0px 32px">
+		  <li>as the conductivity of the soil material increases, heat moves faster through the soil</li>
+	  </ol>
+	  <li>Heat flow in proportional to the <strong><em>temperature gradient</em></strong></li>
+	  <ol style="list-style-type: lower-roman; padding: 0px 0px 0px 32px">
+		  <li>as the difference in temperature between two points increases, heat moves faster through the soil</li>
+	  </ol>
+  </ol>
+  
+  
+  <p>Soil Temperature = ƒ (net amount of heat absorbed, soil heat capacity, evapotranspiration)</p>
+  
+  <dl>
+	  <dt>Heat Absorbed</dt>
+		  <dd>Energy absorbed comes from sun (short-wave) and atmosphere (long-wave)</dd>
+		  </dl>
+		  <p></p>
+  <dl>
+	  <dt>Heat Capacity</dt>
+  <dd>quantity of heat required to change the temperature of a material by 1° C</dd>
+  	</dl>
+  		  
+  <ul>
+    <li>water = \(\frac{1\thinspace\text{cal}}{\text{cm}^3\cdot {}^\circ C }\); dry soil \(\approx \frac{0.2\thinspace\text{cal}}{\text{cm}^3\cdot {}^\circ C }\); air \(\approx \frac{0.003\thinspace\text{cal}}{\text{cm}^3\cdot {}^\circ C }\)</li>
+    <li><i>you can think of heat capacity as how resistant a material is to changing its temperature, water is much more resistant to temperature change than air.</i></li>
+  </ul>
+  
+  
+  <p><strong>Evapotranspiration</strong> - heat energy is consumed by the change of liquid water to water vapor, so less heat energy is available to heat the soil and change the soil's temperature.</p>
+
+<a name="Soil.Temperature.is.influenced.by:"></a>
+<h3>Soil Temperature is influenced by:</h3>
+
+  <ol style="list-style-type: upper-roman; padding: 0px 0px 0px 32px">
+    <li>Soil Color</li>
+    
+    <ol style="list-style-type: lower-roman; padding: 0px 0px 0px 32px">
+      <li><strong>Albedo</strong> = the fraction of the radiation reflected by a surface (black = low, white = high)</li>
+      <li>Slope -north versus south aspect</li>
+      <li>Vegetative cover (reflects radiation &amp; ET) or mulch (insulation-high porosity)</li>
+    </ol>
+  
+    <li>Moisture content</li>
+    
+    <ol style="list-style-type: lower-roman; padding: 0px 0px 0px 32px">
+      <li>affects heat capacity</li>
+      <li>affects thermal conductivity: heat passes from soil to water 150x faster than from soil to air, thus moist soils have a higher thermal conductivity</li>
+      <li>affects evapotranspiration (ET consumes 540 cal/g water)</li>
+    </ol>
+    
+    <li>Compaction</li>
+    
+    <ol style="list-style-type: lower-roman; padding: 0px 0px 0px 32px">
+      <li>particle-particle contact increases thermal conductivity</li>
+    </ol>
+  </ol>
+
+
+  <p>Mineral soils have a higher thermal conductivity than organic soils.<br>
+  <i>Why?</i></p>
+  
+  <p><strong>Daily temperature fluctuations</strong> have larger daily temperature fluctuations occurring in the surface layer (upper 5 cm) and considerably deminished fluctuation occurs below a depth of about 30 cm.</p>
+
+<a name="Seasonal.temperature.fluctuations"></a>
+<p><strong>Seasonal temperature fluctuations</strong> are measured at 50 cm depth as the impacts of daily fluctuations are dampened at this depth.
+
+<ul style="list-style-type: disc; padding: 0px 0px 0px 42px">
+  <li>soil temperature is warmer than air temperature in winter</li>
+  <li>soil temperature is colder than air temperature in the summer</li>
+  <li>this is due to the high heat capacity and low thermal conductivity of soils</li>
+</ul>
+
+
+<a name="Regulating.soil.temperature:"></a>
+<h4>Regulating soil temperature:</h4>
+
+<ul style="list-style-type: disc; padding: 0px 0px 0px 42px">
+  <li>Mulch or vegetative cover</li>
+  <li>Controlling soil water content</li>
+  <li>Avoid compaction. Keep lower &rho;<sub>b</sub>.</li>
+</ul>
+
+</div>
+</article>
+<!-- end Content -->
+						</div>
+					</div>
+				</div>
+			<!-- end Main -->
+			
+<!-- Footer -->
+<div id="footer-wrapper">
+	<footer id="footer" class="container">
+		<div class="row">
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Additional Resources</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/soils101/includes/Glossary.html">Glossary</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Math-helps.html">Maths helps</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Chemistry-helps.html">Chemistry helps</a></li>
+							<li><a href="">Physics helps</a></li>
+						</ul>
+					</section>
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Other Portals</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/enviro-soil/index.html">Enviro-Soil</a></li>
+						</ul>
+					</section>
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Unattached Pages</h3>
+						<ul class="style2">
+							<li><a href=""></a></li>
+						</ul>
+					</section>
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="12u">
+				<div id="copyright">
+					<ul class="menu">
+						<li>Tested only in Firefox web browser</li>
+						<li></li>
+						<li>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<ul id="footer-wrapper">
+		<p>By accessing enviro-soil.com, you acknowledge that all enviro-soil Content is the property of enviro-soil. Visitors and Subscribers are granted a limited, revocable, non-sublicensable and non-transferable license to access enviro-soil for personal, non-commercial use. No intellectual property rights in any enviro-soil content are transferred to you.</p>
+		<p>When accessing enviro-soil content, you may index or link to articles.</p>
+		<p>As a user of enviro-soil.com you may not: (a) store or archive, download or cache, publish, republish or redistribute, communicate or disseminate, alter, adapt, amend, incorporate, merge, sell, translate, localize, copy or otherwise alter any enviro-soil content, including, but not limited to, articles, text, photographs, graphics, artwork, images, tables, data, files, video or audio in any way; (b) create derivative works from the enviro-soil content; (c) view enviro-soil content anywhere but on enviro-soil.com; (d) print, photocopy or scan articles on enviro-soil.com or copies of articles.</p>
+	</ul>
+	</footer>
+</div>
+<!-- end Footer -->
+
+<!-- Scripts -->
+	<script src="https://enviro-soil.com/soils101/assets/js/jquery.min.js"></script>
+	<script src="https://enviro-soil.com/soils101/assets/js/jquery.dropotron.min.js"></script>
+	<script src="https://enviro-soil.com/soils101/assets/js/skel.min.js"></script>
+	<script src="https://enviro-soil.com/soils101/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="https://enviro-soil.com/soils101/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="https://enviro-soil.com/soils101/assets/js/main.js"></script>
+	<script>
+        window.onload = function() {
+            var labels = document.getElementsByTagName('label');
+            for (var i = 0; i < labels.length; i++) {
+                disableSelection(labels[i]);
+            }
+        };
+        function disableSelection(element) {
+            if (typeof element.onselectstart != 'undefined') {
+                element.onselectstart = function() { return false; };
+            } else if (typeof element.style.MozUserSelect != 'undefined') {
+                element.style.MozUserSelect = 'none';
+            } else {
+                element.onmousedown = function() { return false; };
+            }
+        }
+	  </script>
+	  <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+<!-- End Scripts -->
+
+	</body>
+</html>
