@@ -1,0 +1,395 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+-->
+<html>
+	<head>
+		<title>SoilComplexity</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="https://enviro-soil.com/soils101/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://enviro-soil.com/soils101/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="https://enviro-soil.com/soils101/assets/css/ie8.css" /><![endif]-->
+		<meta name="author" content="Donald G. McGahan, Ph.D."/>
+		<style type="text/css">
+			.unselectable {
+			  -webkit-user-select: none;  /* Chrome all / Safari all */
+			  -moz-user-select: none;     /* Firefox all */
+			  -ms-user-select: none;      /* IE 10+ */
+			  user-select: none;          /* Likely future */       
+			  -webkit-touch-callout: default   /* displays the callout */
+			  -webkit-touch-callout: none      /* disables the callout */
+			}
+		</style>
+	</head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+
+<!-- Header -->
+	<div id="header-wrapper">
+		<header id="header" class="container">
+
+			<!-- Logo -->
+				<div id="logo">
+					<h1><a href="../index.html">Soils Reader</a></h1>
+					<span>by Donald G. McGahan</span>
+				</div>
+			<!-- end Logo -->
+							
+<!-- Nav -->
+	<nav id="nav">
+	<ul>
+		<li><a href="#">Content</a>
+			<ul>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Introduction.html">Introduction</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/functions.html">Functions</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/complexity.html">Complexity</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Physical_Properties.html">Physical Properties</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/size-separates.html">Size Separates</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/textural-classes.html">Textural Class</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/particle-arrangement.html">Particle Arrangement</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/density.html">Density</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/porosity.html">Porosity</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/soil_color.html">Color</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/engineering.html">Engineering</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/erosion.html">Erosion</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Chemical.html">Chemical</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/mineralogy.html">Mineralogy</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/acidity.html">Acidity</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/alkalinity.html">Alkalinity</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Climate.html">Climate</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/water.html">Water</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/aeration.html">Aeration</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/temperature.html">Temperature</a></li>
+					</ul>				
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Biology.html">Biology</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/ecology.html">Ecology</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/organisms.html">Organisms</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/organic_matter.html">Organic Matter</a></li>
+					</ul>	
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Classification.html">Classification</a>				
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/differentiation.html">Differentiation</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/comparing.html">Comparing</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Mineral_Nutrition_for_Plants.html">Mineral Nutrition for Plants</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/nitrogen.html">Nitrogen</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/phosphorus.html">Phosphorus</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/potassium.html">Potassium</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/sulfur.html">Sulfur</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/calcium.html">Calcium</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/magnesium.html">Magnesium</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/micronutrients.html">Micronutrients</a></li>
+	
+					</ul>
+				</li>
+			</ul>
+			</li>
+		<!--<li class="current"><a href="./index.html">Introduction</a></li>-->
+		<!--<li><a href="https://enviro-soil.com/enviro-soil/index.html">Back to Enviro-Soil</a></li>-->
+	</ul>
+	</nav>
+<!-- end Nav -->
+						
+					</header>
+				</div>
+			<!-- end Header -->
+			
+<!-- Main -->
+	<div id="main-wrapper">
+		<div class="container">
+			<div id="content">
+
+				<!-- Content -->
+					<article>
+					<!--<div unselectable="on" class="unselectable">-->
+						<h2 id="complexity">Complexity of Soil Individuals on the Landscape</h2>
+						<p>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</p>
+
+						<a name="Soil.Bodies"></a>
+						<h3>Soil Bodies</h3>
+						
+							<p>The beginning of appreciation of the complexity and diversity of soil individuals across landscapes begins with definitions of the language employed to communicate effectively about soils.</p>
+						
+							<dl>
+								<dt>Soil Profile</dt>
+									<dd>A two-dimensional vertical slice of the soil.</dd>
+							</dl>	
+							<dl>	
+								<dt>Soil Pedon</dt>
+								<dd>A three-dimensional for which the soil profile is the but the face of is vertical extent.</dd>
+								<dd>No smaller than 1 m by 1 m square at the surface, and no larger than 8 m square and extending to the depth of "not soil".</dd>
+							</dl>	
+							<dl>
+								<dt>Horizons</dt>
+									<dd>Horizontal layers approximately parallel to the earth's surface having differing chemical, physical, biological, and morphological properties.</dd>
+							</dl>
+							
+							<p>Each soil profile (soil pedon) is characterized by a given sequence of horizons.</p>
+						
+						<a name="Soil.Morphology"></a>
+						<h3>Soil Morphology</h3>
+						
+							<ul class="reader">
+								<li>The study of structure or form
+									<ul class="readerSub">
+										<li>properties characterized by sight, feel, smell or sound.</li>
+									</ul>
+								</li>
+								<li>Color</li>
+								<li>Texture
+									<ul class="readerSub">
+										<li>distribution of particle sizes (sand, silt, and clay)</li>
+									</ul>
+								</li>
+								<li>Structure
+									<ul class="readerSub">
+										<li>how particles are arranged</li>
+									</ul>
+								</li>
+								<li>Consistence
+									<ul class="readerSub">
+										<li>the ability of particles to stick together (adhesion and cohesion forces)</li>
+									</ul>
+								</li>
+								<li>Pores
+									<ul class="readerSub">
+										<li>size, abundance, and connectivity</li>
+									</ul>
+								</li>
+								<li>Roots
+									<ul class="readerSub">
+										<li>size and abundance</li>
+									</ul>
+								</li>
+							</ul>
+						
+						<a name="Description.of.Soil.Horizons"></a>
+						<h3>Description of Soil Horizons</h3>
+						
+						<a name="Nomenclature.to.describe.soil.horizons:"></a>
+						<h4>Nomenclature to describe soil horizons:</h4>
+						
+							<ul class="reader" style="list-style-type:square;">
+								<li>Example = Bt2 horizon</li>
+								<li>Capital letters
+									<ul class="readerSub">
+										<li>master horizons</li>
+									</ul>
+								</li>
+								<li>Lower case letters
+									<ul class="readerSub">
+										<li>specific characteristics or subdivisions of the master horizon</li>
+									</ul>
+								</li>
+								<li>Arabic numerals
+									<ul class="readerSub">
+										<li>further subdivision of horizons with similar features</li>
+									</ul>
+								 </li>
+							</ul>
+							
+							<hr>
+							
+							<p>Following are the most common master horizons or layers. You are responsible for these. Horizons are pedogenetic and layers are geogenetic or biogenetic.</p>
+							
+							<dl><dt>O horizon or layer</dt>
+								<dd>A surface horizon dominated by organic materials (&gt; 20% organic carbon)</dd></dl>
+							
+							<p>Subordinate horizon designators modify the master horizon designator. Associated with the O master horizons are four. Three, i, e, and a are not used with other master horizon designators and the forth, p, is used with other master horizon designators.</p>
+							
+							<div style="padding: 0px 31px 0px 40px">
+							<dl>
+								<dt>Oi</dt>
+									<dd>The O horizon is composed of slightly decomposed organic matter. Can still identify the original plant and animal remains</dd>
+								<dt>Oe</dt>
+									<dd>The O horizon is composed of intermediately decomposed.</dd>
+								<dt>Oa</dt>
+									<dd>The O horizon is composed of highly decomposed. Can not identify the original source of the organic material.</dd>
+								<dt>Op</dt>
+									<dd>The O horizon has been plowed.</dd>
+							</dl>
+							</div>
+							
+							<dl>
+								<dt>A horizon</dt>
+									<dd>A mineral horizon (&lt;20% organic C) which forms at the surface, or beneath an O horizon.</dd>
+									<dd>The A horizon is characterized by a darker color than the rest of the profile due to the accumulation of organic matter. This horizon typically coincides with high biological activity.</dd>
+									<dd>The A horizon is an eluvial (<a href="https://enviro-soil.com/soils101/includes/Glossary.html#eluviation">&#8505;</a>) horizon (<a href="https://enviro-soil.com/soils101/includes/Glossary.html#eluvialHorizon">&#8505;</a>) defined as the loss of materials such as iron/aluminum oxides and clays.</dd>
+							</dl><dl>
+								<dt id="E_Horizon">E horizon</dt>
+									<dd>An intensively leached eluvial horizon in which organic matter along with iron/aluminum oxides and clay have been removed. Most commonly found in forest soils.</dd>
+									<dd>Typically white or light gray in color due to the lack of coatings, which impart the color pigments to other horizons, on the mineral surfaces.</dd>
+							</dl><dl>
+								<dt>B horizon</dt>
+									<dd>Horizon formed beneath an A, E, or O horizon and is a zone of accumulation (illuvial horizons). May accumulate clay, iron/aluminum oxides, organic matter, carbonates, etc.</dd>
+							</dl><dl>
+								<dt>C horizon</dt>
+									<dd>A layer of unconsolidated material showing little weathering (alteration) and biological activity (e.g., beach sand, alluvium deposited by rivers, glacial till deposited by glaciers).</dd>
+							</dl><dl>
+								<dt>R layers</dt>
+									<dd>Consolidated rock that can not be dug with a shovel and shows little evidence of weathering (e.g., granite, sandstone).</dd>
+							</dl><dl>
+								<dt>Transition horizons</dt>
+									<dd>horizons that contain properties of two types of master horizons</dd>
+									<dd>Example = AB horizon - has a dark color due to organic matter (A-like), plus red color due to accumulation of iron (B-like). Common transition horizons: AB, BA, BC, CB. The dominant horizon is listed first.</dd>
+							</dl>
+							
+							<p>Other less common horizons and layers</p>
+							
+							<dl><dt>M layer</dt>
+									<dd>A root limiting nearly continuous, horizontally oriented, human-manufactured materials (e.g., geotextile liners, asphalt, concrete, rubber, and plastic).</dd></dl>
+							<dl><dt>W layer</dt>
+									<dd>Water within or beneath the soil. Not used for shallow water, ice, or snow above the soil surface.</dd></dl>
+							<dl><dt>L horizon or layer</dt>
+									<dd>Include both organic and mineral limnic materials that were either (1) deposited in water by precipitation or through the actions of aquatic organisms, such as algae and diatoms, or (2) derived from underwater and floating aquatic plants and subsequently modified by aquatic animals.</dd></dl>
+						
+						<hr /><hr />
+						
+						<a name="Not.every.soil.contains.all.of.the.master.horizons"></a>
+						<h4>Not every soil contains all of the master horizons</h4>
+						
+							<ul class="reader">
+								<li>O horizons form preferentially under forest vegetation; often absent under grass vegetation</li>
+								<li>Soils that have been eroded may be missing their O or A horizon</li>
+								<li>A horizon may be missing in some forest soils (e.g., O-E-B-C)</li>
+								<li>B horizon may be missing in young soils (e.g., A-C); B horizons take a long time to form.</li>
+							</ul>
+						
+						<a name="Additional.Terminology"></a>
+						<h4>Additional Terminology</h4>
+						
+							<dl><dt>Solum</dt>
+								<dd>the zone of active soil formation; comprised of the A, E, and B horizons</dd></dl>
+							<dl><dt id="topsoil">Topsoil</dt>
+								<dd>The surface layer of the soil. (<i>Depreciated application of term</i>)</dd>
+								<dd>The layer manipulated by tillage; typically the upper 10-25&nbsp;cm. (<i>Depreciated application of term</i>)</dd>
+								<dd>Topsoil is excavated, transported, unconsolidated material spread on-top of soil, geologic, or manmade material.</dl>
+							<dl><dt>Subsoil</dt>
+								<dd>the soil layers beneath the <a href="https://enviro-soil.com/soils101/includes/Glossary.html#epipedon">epidpedon</a>, or what prior to depreciation of the term `topsoil'  was called topsoil, (does not include the C layer)</dd></dl>								
+						</div>
+					</article>
+				<!-- end Content -->
+			</div>
+		</div>
+	</div>
+<!-- end Main -->
+			
+<!-- Footer -->
+<div id="footer-wrapper">
+	<footer id="footer" class="container">
+		<div class="row">
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Additional Resources</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/soils101/includes/Glossary.html">Glossary</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Math-helps.html">Maths helps</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Chemistry-helps.html">Chemistry helps</a></li>
+							<li><a href="">Physics helps</a></li>
+						</ul>
+					</section>
+					
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Other Portals</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/enviro-soil/index.html">Enviro-Soil</a></li>
+						</ul>
+					</section>
+					
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Unattached Pages</h3>
+						<ul class="style2">
+							<li><a href=""></a></li>
+						</ul>
+					</section>
+					
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="12u">
+				<div id="copyright">
+					<ul class="menu">
+						<li>Tested only in Firefox web browser</li>
+						<li></li>
+						<li>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+			<ul id="footer-wrapper">
+		<p>By accessing enviro-soil.com, you acknowledge that all enviro-soil Content is the property of enviro-soil. Visitors and Subscribers are granted a limited, revocable, non-sublicensable and non-transferable license to access enviro-soil for personal, non-commercial use. No intellectual property rights in any enviro-soil content are transferred to you.</p>
+		<p>As a user of enviro-soil.com you may not: (a) store or archive, download or cache, publish, republish or redistribute, communicate or disseminate, alter, adapt, amend, incorporate, merge, sell, translate, localize, copy or otherwise alter any enviro-soil content, including, but not limited to, articles, text, photographs, graphics, artwork, images, tables, data, files, video or audio in any way; (b) create derivative works from the enviro-soil content; (c) view enviro-soil content anywhere but on enviro-soil.com; (d) print, photocopy or scan articles on enviro-soil.com or copies of articles.</p>
+	</ul>
+	</footer>
+</div>
+<!-- end Footer -->
+
+<!-- Scripts -->
+	<script src="https://enviro-soil.com/soils101/assets/js/jquery.min.js"></script>
+	<script src="https://enviro-soil.com/soils101/assets/js/jquery.dropotron.min.js"></script>
+	<script src="https://enviro-soil.com/soils101/assets/js/skel.min.js"></script>
+	<script src="https://enviro-soil.com/soils101/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="https://enviro-soil.com/soils101/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="https://enviro-soil.com/soils101/assets/js/main.js"></script>
+	<script>
+        window.onload = function() {
+            var labels = document.getElementsByTagName('label');
+            for (var i = 0; i < labels.length; i++) {
+                disableSelection(labels[i]);
+            }
+        };
+        function disableSelection(element) {
+            if (typeof element.onselectstart != 'undefined') {
+                element.onselectstart = function() { return false; };
+            } else if (typeof element.style.MozUserSelect != 'undefined') {
+                element.style.MozUserSelect = 'none';
+            } else {
+                element.onmousedown = function() { return false; };
+            }
+        }
+	</script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async>
+	</script>
+<!-- End Scripts -->
+
+
+	</body>
+</html>

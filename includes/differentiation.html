@@ -1,0 +1,601 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+-->
+<html lang="en">
+	<head>
+		<title>Differentiating Soil</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="../assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="../assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="../assets/css/ie8.css" /><![endif]-->
+		<meta name="author" content="Donald G. McGahan, Ph.D."/>
+		<style type="text/css">
+			.unselectable {
+			  -webkit-user-select: none;  /* Chrome all / Safari all */
+			  -moz-user-select: none;     /* Firefox all */
+			  -ms-user-select: none;      /* IE 10+ */
+			  user-select: none;          /* Likely future */       
+			  -webkit-touch-callout: default   /* displays the callout */
+			  -webkit-touch-callout: none      /* disables the callout */
+			}
+		</style>
+	</head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<header id="header" class="container">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="../index.html">Soils Reader</a></h1>
+								<span>by Donald G. McGahan</span>
+							</div>
+						<!-- end Logo -->
+							
+<!-- Nav -->
+<nav id="nav">
+<ul>
+	<li><a href="#">Content</a>
+		<ul>
+			<li>
+				<a href="https://enviro-soil.com/soils101/includes/Introduction.html">Introduction</a>
+				<ul>
+					<li><a href="https://enviro-soil.com/soils101/includes/functions.html">Functions</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/complexity.html">Complexity</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="https://enviro-soil.com/soils101/includes/Physical_Properties.html">Physical Properties</a>
+				<ul>
+					<li><a href="https://enviro-soil.com/soils101/includes/size-separates.html">Size Separates</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/textural-classes.html">Textural Class</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/particle-arrangement.html">Particle Arrangement</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/density.html">Density</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/porosity.html">Porosity</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/soil_color.html">Color</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/engineering.html">Engineering</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/erosion.html">Erosion</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="https://enviro-soil.com/soils101/includes/Chemical.html">Chemical</a>
+				<ul>
+					<li><a href="https://enviro-soil.com/soils101/includes/mineralogy.html">Mineralogy</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/acidity.html">Acidity</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/alkalinity.html">Alkalinity</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="https://enviro-soil.com/soils101/includes/Climate.html">Climate</a>
+				<ul>
+					<li><a href="https://enviro-soil.com/soils101/includes/water.html">Water</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/aeration.html">Aeration</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/temperature.html">Temperature</a></li>
+				</ul>				
+			</li>
+			<li>
+				<a href="https://enviro-soil.com/soils101/includes/Biology.html">Biology</a>
+				<ul>
+					<li><a href="https://enviro-soil.com/soils101/includes/ecology.html">Ecology</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/organisms.html">Organisms</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/organic_matter.html">Organic Matter</a></li>
+				</ul>	
+			</li>
+			<li>
+				<a href="https://enviro-soil.com/soils101/includes/Classification.html">Classification</a>				
+				<ul>
+					<li><a href="https://enviro-soil.com/soils101/includes/differentiation.html">Differentiation</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/comparing.html">Comparing</a></li>
+				</ul>
+			</li>
+			<li>
+				<a href="https://enviro-soil.com/soils101/includes/Mineral_Nutrition_for_Plants.html">Mineral Nutrition for Plants</a>
+				<ul>
+					<li><a href="https://enviro-soil.com/soils101/includes/nitrogen.html">Nitrogen</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/phosphorus.html">Phosphorus</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/potassium.html">Potassium</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/sulfur.html">Sulfur</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/calcium.html">Calcium</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/magnesium.html">Magnesium</a></li>
+					<li><a href="https://enviro-soil.com/soils101/includes/micronutrients.html">Micronutrients</a></li>
+
+				</ul>
+			</li>
+		</ul>
+		</li>
+	<!--<li class="current"><a href="./index.html">Introduction</a></li>-->
+	<!--<li><a href="https://enviro-soil.com/enviro-soil/index.html">Back to Enviro-Soil</a></li>-->
+</ul>
+</nav>
+<!-- end Nav -->
+						
+					</header>
+				</div>
+			<!-- end Header -->
+			
+<!-- Main -->
+<div id="main-wrapper">
+	<div class="container">
+		<div id="content">
+
+			<!-- Content -->
+				<article>
+				<!--<div unselectable="on" class="unselectable">-->
+					<h2 id="differentiation">Differentiating Soil</h2>
+					<p>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</p>
+
+					<h2>Soil Formation</h2>
+
+					<h3>Four Major Categories of Soil Forming Processes</h3>
+					
+						<ol class="reader">
+						<li><b>Transformations</b> - soil constituents are modified or destroyed, and others are synthesized.</li>
+						 <ol class="readerSub">
+						   <li>physical and chemical weathering, formation of secondary minerals, organic matter (Oi) → humus (Oa)</li>
+						 </ol> 
+						<li><b>Translocation</b> - movement of inorganic and organic materials from one horizon (up or down) to another</li>
+						 <ol class="readerSub">
+						  <li>moved primarily by water; however, soil organisms also mix materials within and between horizons</li>
+						   <li>clay, aluminum and iron oxides, humus, calcium carbonate (CaCO₃) and soluble salts</li>
+						 </ol>
+						<li><b>Additions</b> - materials added to the soil profile from outside sources</li>
+						 <ol class="readerSub">
+						  <li>organic matter from vegetation, dust (eolian) and acids from the atmosphere, salts from groundwater</li>
+						 </ol>  
+						<li><b>Losses</b> - materials removed from the soil profile</li>
+						 <ol class="readerSub">
+						  <li>leaching of soluble constituents to groundwater or erosion of surface materials by wind or water</li>
+						 </ol>
+						</ol>
+						
+						<p>These processes lead to horizon differentiation (<em>e.g.,</em> formation of soil layers with distinctive physical, chemical, biological and morphological properties). </p>
+					
+					<h3>Soil Forming Equation Proposed by Hans Jenny (1941)</h3>
+					
+						<p><strong>Soil</strong> = <strong><em>f</em></strong> <strong>(climate, organisms, relief, parent material, time)</strong> <strong>clorpt</strong> (soil forming factors)</p>
+						
+						<h4>Parent Material</h4>
+						
+						<ol class="reader">
+							<li><strong>Bedrock versus unconsolidated material</strong> - rock must first breakdown into smaller particles</li>
+							<li><strong>Porosity</strong> - water migration through parent material enhances weathering because water is the solvent in chemical weathering.
+							Porosity: Sedimentary &gt;&gt; igneous = metamorphic</li>
+							<li><strong>Mineralogy</strong> - various minerals have differing resistance to chemical weathering</li>
+							
+							<ul class="readerSub">
+								<li>primary minerals dictate to a large degree the quantity and type of secondary clay minerals formed</li>
+								<li>primary minerals and their chemistry determine the quantity and type of nutrient elements released (<em>i.e.,</em> soil fertility).</li>
+							</ul>
+							<li><strong>Soil texture</strong> - influenced by the size of crystals in the rock and the resistance of the minerals to chemical weathering (intrusive rocks; granite = sandy textures; extrusive rocks; basalt = loamy textures.</li>
+						</ol>
+						
+						<h4>Climate</strong></h4>
+						
+							<p>Precipitation and temperature are the two principal climatic factors influencing soil formation.</p>
+							
+							<ol class="reader">
+								<li>Water is the main agent in weathering (weathering increases linearly with increasing precipitation).</li>
+								<li>Biochemical reactions occur more rapidly at higher temperatures. Biochemical reactions increase by a factor of 2 for each 10 ℃ increase in temperature (weathering increases exponentially with increasing temperature).</li>
+								<li>If precipitation exceeds evapotranspiration, soluble elements will be leached from the soil profile.</li>
+								
+								<ul class="readerSub">
+								<li>If evapotranspiration exceeds precipitation, soluble elements will accumulate in the soil profile.</li>
+								</ul>
+									<li>Precipitation and temperature determine the kind and amount of vegetation.</li>
+							</ol>
+						
+						<h4>Relief (or Topography</strong>)</h4>
+						
+							<p><strong>Topography</strong> refers to the shape of the landscape (slope angle and slope length; convex versus concave) </p>
+							
+							<p><strong>Slope aspect</strong> - which direction the slope faces</p>
+							
+							<ol class="reader">
+								<li>Influences the amount of water that infiltrates into the soil versus runs off (effective precipitation).</li>
+								<li>Influences the amount of erosion.</li>
+								<li>Aspect influences soil temperature (south aspect is warmer than north in California).</li>
+							</ol>
+						
+						<h4>Organisms (or Biota)</h4>
+						
+							<p>Biota include both plants and animals. Biota are largely a function of the climate. </p>
+							
+							<ol class="reader">
+								<li>Plants fix carbon from the atmosphere and add it to the soil in the form of organic matter. The organic matter content of &#8220;grassland&#8221; soils (A horizons) is generally higher than forest soils (O horizons).</li>
+								<li>Some plants in conjunction with microbes are able to fix nitrogen from the atmosphere and add it to the soil.</li>
+								<li>Upon decomposition of organic matter, organic acids and chelates may be produced which increase chemical weathering reactions. Carbonic acid is produced from CO₂ released from root and microbial respiration.</li>
+								<li>Plants cycle nutrients such as nitrogen, phosphorus, potassium, etc. Nutrients are taken up from deeper soil horizons and returned to the soil surface. This is called nutrient cycling.</li>
+								<li>Plants and animals mix the soil by burrowing and root growth.</li>
+								<li>Biota promote structure development through addition of organic matter and compression of particles.</li>
+							</ol>
+						
+						<h4>Time</h4>
+						
+						<p>The greater the time, the more developed a soil will become due to increased time for soil forming processes to take place (weathering, humus formation, and translocation of materials).</p>
+						
+						<p>Young soil : A - C horizons</p>
+						
+						<p>Mature soil: A - many &amp; thicker B - C horizons</p>
+						
+					<h2>Rocks, Minerals, and Parent Materials</h2>
+						<dl>
+							<dt>Parent material</dt>
+							<dd>The material from which a soil forms.</dd>
+						</dl>
+						
+						<p><strong>Rocks</strong> (or decomposed and transported pieces of rock) are the parent material from which most soils form (inorganic or mineral materials).</p>
+						
+						<p><strong>Organic materials</strong> may also be considered a parent material (<em>e.g.,</em> peat bogs).</p>
+						
+					<h3>Some geological considerations</h3>
+						
+						<p><strong>Rocks</strong> are a collection of minerals. <strong>Minerals</strong> are made up of a few elements arranged in a specific pattern.</p>
+						
+						<p>Three types of rocks: Igneous, Sedimetary, and Metamorphic.</p>
+						
+						<hr />
+						
+					<h4>Igneous</h4>
+						<dl>
+							<dt>Igneous</dt>
+							<dd>rocks formed when hot liquid magma cools and solidifies.</dd>
+						</dl>
+						
+						<p>How fast the magma cools to form igneous rocks makes a difference. </p>
+						
+						<dl>
+							<dt>Extrusive</dt>
+								<dd>fast cooling at the earth&#8217;s surface results in small crystals.</dd>
+						
+							<dt>Intrusive</dt>
+								<dd>slow cooling below the earth&#8217;s surface results in larger crystals.</dd>
+						</dl>
+						
+						<p>Intrusive verses Extrusive igneous rocks of the same chemistry and mineralogy impacts the crystal size in the rock. Larger size crystals have less surface area per volume and this impacts weathering rate of the minerals that make up the rock. </p>
+						
+						<p>Rock type chemistry and mineralogy determines the kinds and amounts of nutrient elements released (<em>i.e.,</em> soil fertility) and secondary (clay) minerals that will form over time.</p>
+						
+						<ul class="reader">
+							<li>Intrusive/Extrusive</li>
+							<li>Granite/Rhyolite High silicon &amp; potassium (Light colored)</li>
+							<li>Diorite/Andesite Intermediate composition and color</li>
+							<li>Gabbro/Basalt High iron, magnesium &amp; calcium (Dark colored)</li>
+						</ul>
+						
+						<hr />
+					<h4>Sedimentary</h4>
+						
+						<dl>
+						<dt>Sedimentary rocks</dt>
+							<dd>cover about 75% of the Earth’s land surface</dd>
+							<ul class="reader">
+								<li>result from the deposition and recementation of the weathering products of other rocks</li>
+								<li>eroded materials are compressed by the pressure of overlying sediments</li>
+								<li>most sedimentary rocks are softer and more porous than igneous or metamorphic rocks</li>
+							</ul>
+						</dl>
+						<p>Names of sedimentary rocks sometimes convey composition of the rock.</p>
+						
+						<dl style="padding-left: 32px">
+							<dt>Conglomerate</dt>
+								<dd>sands, gravels, and stones</dd>
+						</dl>
+						
+						<dl>
+							<dt>Sandstone</dt>
+								<dd>sand</dd>
+						</dl>
+						
+						<dl>
+							<dt>Shale</dt>
+								<dd>clay</dd>
+						</dl>
+						
+						<dl>
+							<dt>Limestone</dt>
+								<dd>shells composed of calcium carbonate \(\left(\text{CaCO}_3\right)\)</dd>
+						</dl>
+
+						<hr />
+						
+					<h4>Metamorphic</h4>
+						<dl>
+							<dt>Metamorphic</dt>
+								<dd>igneous or sedimentary rocks that have been subjected to high temperatures and/or pressures resulting in alteration of the original rock and minerals.</dd>
+						</dl>
+								<dl style="padding-left: 32px">
+									<dt>Gneiss</dt>
+										<dd>from granite</dd>
+									<dt>Quartzite</dt>
+										<dd>from sandstone</dd>
+									<dt>Slate</dt>
+										<dd>from shale</dd>
+									<dt>Marble</dt>
+										<dd>from limestone</dd>
+									<dt>Serpentinite</dt>
+										<dd>from rocks with high iron and magnesium concentrations</dd>
+						</dl></dl>
+
+						<hr />
+						
+					<h3>Parent Materials can be separated into <strong>residual</strong> (formed in place) and <strong>transported</strong> materials.</h3>
+						
+					<h4>Residual Parent Materials</strong> (not transported)</h4>
+						
+						<dl>
+							<dt>Residual inorganic materials</dt>
+								<dd>developed in place from the breakdown of the underlying bedrock.</dd>
+							
+							<dt>Organic materials</dt>
+								<dd>accumulation of plant remains (generally in water-saturated environments)</dd>
+						</dl>
+						
+					<h4>Transported Parent Materials</strong> (Transporting agents = gravity, water, ice, wind)</h4>
+						
+						<dl>
+							<dt>Unsorted materials</dt>
+								<dd>a mixture of particle sizes from clay to boulder size</dd>
+							
+							<dt>Sorted materials</dt>
+								<dd>the particles are relatively uniform in size</dd>
+						</dl>
+						
+						<h5>Sorting fluid for transported materials.</h5>
+						
+						<dl>
+							<dt>gravity</dt>
+								<dd>poorly sorted</dd></dl>
+								<dl style="padding-left: 32px">
+									<dt>Colluvium</dt>
+										<dd>fragments of rock detached from the rock mass and moved downslope by gravity</dd></dl>
+						
+						<dl><dt>water</dt>
+							<dd>sorted</dd></dl>
+								<dl style="padding-left: 32px">
+									<dt>Alluvium</dt>
+										<dd>deposited by rivers (floodplains, alluvial fans, deltas)</dd>
+									<dt>Marine</dt>
+										<dd>sediments deposited in oceans</dd>
+									<dt>Lacustrine</dt>
+										<dd>sediments deposited in lakes</dd>
+								</dl>
+						
+						<dl>
+							<dt>ice</dt>
+								<dd>unsorted</dd></dl>
+								<dl style="padding-left: 32px">
+									<dt>Glacial till</dt>
+										<dd>contains a wide range of particle sizes from clays to boulders and may contain a wide variety of rock types</dd>
+								</dl>
+
+						<dl>
+						<dt>wind</dt>
+							<dd>sorted</dd></dl>
+							<dl style="padding-left: 32px">
+								<dt>Eolian deposits</dt>
+									<dd>material accumulated through wind action</dd>
+									<dd>dune sands, loess (silt + find sands) and volcanic ash</dd>
+							</dl>
+						
+						<dl>
+							<dt>ice, then water</dt>
+								<dd>sorted</dd></dl>
+								<dl style="padding-left: 32px">
+									<dt>Glacial outwash</dt>
+										<dd>water sorted (by size) glacial debris deposited by water at the melting edge of the glaciers</dd>
+										<dd>Particle size grades from stones &rarr; cobbles &rarr; gravels &rarr; sands &rarr; silts moving away from melting glacier as the energy (speed) of the moving water decreases.</dd>
+								</dl>
+						
+				<h2 id="physical-and-chemical-weathering">Physical and Chemical Weathering</h2>
+
+				<h3>Rock weathering can be divided into two sets of processes:</h3>
+				
+					<p><strong>Physical weathering</strong> is <em>disintegration</em> of the original rock to smaller-sized material with no appreciable change in chemical or mineralogical composition. This physical weathering increases the surface area exposed for chemical weathering.
+					<strong>Chemical weathering</strong> is a <em>decomposition</em> where the chemical and mineralogical composition of the original rock and minerals is changed.</p>
+				
+				<h4 id="agents-of-physical-weathering">Agents of Physical Weathering</h4>
+				
+					<ul class="reader">
+					<li>Temperature</li>
+					<ul class="readerSub">
+						<li>Heating and cooling causes exfoliation evidenced by a separation of concentric shells or layers of rock.</li>
+						<li>Ice and hydrofracturing by freezing is caused by ice as it expands 9% in volume relative to liquid .</li>
+					</ul>
+					<li>Water, ice, and wind are agents of abrasion and grinding.</li>
+					<li>Plants and animals.</li>
+					<li>Pressure release or unloading.</li>
+					</ul>
+				
+				<h4 id="chemical-weathering">Chemical Weathering</h4>
+				
+					<p>Solution - dissolving a substance in water (water is the solvent). Example table salt (halite or NaCl<sub>(s)</sub>)</p>
+					
+					<p>NaCl<sub>(s)</sub> → Na⁺<sub>(aq)</sub> + Cl¯<sub>(aq)</sub> </p>
+					
+					<p><strong>Hydration</strong> is the addition of water molecules to a mineral</p>
+					
+					<p>CaSO₄ + 2H₂O → 4 CaSO₄᛫2H₂O
+					Plaster of Paris → gypsum</p>
+					
+					<p><strong>Hydrolysis</strong> is the splitting of water followed by reaction of H⁺ or OH¯ with minerals <strong>(most important chemical weathering process in soils!)</strong></p>
+					
+					<p>H₂O or HOH → H⁺ + (OH)¯</p>
+					
+					<p>H⁺ = acid</p>
+					
+					<p>(OH)¯ = base</p>
+					
+					<p>If H⁺ = (OH)¯ Neutral pH (pH = 7) .</p>
+					
+					<p>If H⁺ &gt; (OH)¯ Acid soil (pH &lt; 7)</p>
+					
+					<p>If H⁺ &lt; (OH)¯ Basic soil (pH &gt; 7) </p>
+					
+					<p>(basic soils are also termed alkaline soils)</p>
+					
+					<p>Example:</p>
+					
+					<p>K-feldspar + HOH → H-feldspar + K⁺ + (OH)¯ </p>
+				
+				<h5>Different sources of acid (H⁺) in the soil.</h5>
+				
+					<ol class="reader">
+						<li><p><strong>Water</strong> H₂O is a very weak acid.</p></li>
+						<li><p><strong>Carbonic acid</strong> is formed by the combination of carbon dioxide and water. In the soil, plant roots and soil microbes release (respire) carbon dioxide.</p></li>
+					</ol>
+					
+					<p>(CO₂ + H₂O → H₂CO₃)</p>
+					
+					<ol class="reader">
+						<li><strong>Organic acids</strong> are formed by incomplete decomposition of organic matter or secreted by plant roots and soil microorganisms.</li>
+						<li><strong>Strong acids</strong></li>
+						<ul class="readerSub"
+							<li>Nitric acid (HNO₃). Ammonium fertilizer: NH₄⁺ + O₂ → 2H₂O + NO₃¯ 2O₂</li>
+							<li>Sulfuric acid (H₂SO₄).</li>
+						</ul>
+					</ol>
+					
+					<p><strong>Oxidation/Reduction</strong> involves electron e⁻ transfer (electrons are produced by biological respiration) </p>
+					
+					<p>e- + ½O₂ + 2 H⁺ → H₂O (oxygen present) versus e⁻ + Fe³⁺ → Fe²⁺ (oxygen absent). Oxygen is the electron e⁻ acceptor in soils when it is available. If oxygen is available, the e⁻ will combine with oxygen and Fe³⁺ is the stable form of iron. If oxygen is not available, e⁻ will combine with Fe³⁺ producing Fe²⁺ as the stable form. Alternating oxidation (with oxygen -not water saturated) and reduction (no oxygen-during water saturation) leads to formation of redoximorphic features in soils. </p>
+					
+					<p><strong>Chelation</strong> is a Greek word meaning claw.</p>
+					
+					<p>Chelates are compounds (e.g., generally formed from organic acids) which can form multiple bonds with metals (e.g., iron, aluminum) making them more soluble and mobile. Chelates result from biological activity. </p>
+				
+				<h3 id="classes-of-chemical-weathering">Classes of Chemical Weathering</h3>
+				
+					<p><strong>Primary minerals</strong> are minerals that have not been altered chemically since they solidified from the molten magma. </p>
+					
+					<p><strong>Secondary minerals</strong> are recrystallized or modified products from the chemical breakdown and/or alteration of primary minerals (clay minerals are an example of secondary minerals: <strong>Soils are clay factories!</strong>. </p>
+					
+					<ul class="reader">
+						<li><strong>Congruent weathering</strong> - complete dissolution of solids to soluble products.</li>
+						<li><strong>Incongruent weathering</strong> - partial dissolution; both solid and soluble products are formed.</li>
+					</ul>
+				
+				<h3 id="factors-affecting-the-weathering-of-minerals">Factors Affecting the Weathering of Minerals</h3>
+				
+					<p><strong>Climate</strong> (Most important factor!)</p>
+					
+					<p><strong>Water</strong> All chemical weathering reactions take place in water. Water is &#8220;The Universal Solvent&#8221; and therefore the presence of water is very important. In general, weathering increases with increasing precipitation and leaching.</p>
+					
+					<p><strong>Temperature</strong> The greater the temperature, the faster chemical reactions proceed; given that there is sufficient water. Chemical reactions increase by a factor of approximately 2 for every 10 ℃ increase in temperature.</p>
+					
+					<p><strong>Rock and Mineral Characteristics</strong></p>
+					
+					<ul class="reader">
+						<li><strong>Physical Characteristics</strong>: particle size, hardness, nature and degree of cementation, and porosity (e.g., limestone more susceptible to weathering than granite).</li>
+						<li><strong>Chemical Characteristics</strong>: mineral stability (see handout)</li>
+						<li><strong>Biota</strong> It is believed that plants and animals increase rates of weathering by 3&#8211;10 times. Biota affect both physical and chemical weathering. Plants and microorganisms produce organic acids. Organic acids greatly accelerate the chemical weathering process (acid source &amp; chelate source). Plants and animals respire leading to increased CO₂ concentrations and thus increased carbonic acid levels.</li>
+					</ul>
+
+							
+				</div>
+				</article>
+			<!-- end Content -->
+		</div>
+	</div>
+</div>
+<!-- end Main -->
+			
+<!-- Footer -->
+<div id="footer-wrapper">
+	<footer id="footer" class="container">
+		<div class="row">
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Additional Resources</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/soils101/includes/Glossary.html">Glossary</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Math-helps.html">Maths helps</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Chemistry-helps.html">Chemistry helps</a></li>
+							<li><a href="">Physics helps</a></li>
+						</ul>
+					</section>
+					
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Other Portals</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/enviro-soil/index.html">Enviro-Soil</a></li>
+						</ul>
+					</section>
+					
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Unattached Pages</h3>
+						<ul class="style2">
+							<li><a href=""></a></li>
+						</ul>
+					</section>
+					
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="12u">
+				<div id="copyright">
+					<ul class="menu">
+						<li>Tested only in Firefox web browser</li>
+						<li></li>
+						<li>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+			<ul id="footer-wrapper">
+		<p>By accessing enviro-soil.com, you acknowledge that all enviro-soil Content is the property of enviro-soil. Visitors and Subscribers are granted a limited, revocable, non-sublicensable and non-transferable license to access enviro-soil for personal, non-commercial use. No intellectual property rights in any enviro-soil content are transferred to you.</p>
+		<p>As a user of enviro-soil.com you may not: (a) store or archive, download or cache, publish, republish or redistribute, communicate or disseminate, alter, adapt, amend, incorporate, merge, sell, translate, localize, copy or otherwise alter any enviro-soil content, including, but not limited to, articles, text, photographs, graphics, artwork, images, tables, data, files, video or audio in any way; (b) create derivative works from the enviro-soil content; (c) view enviro-soil content anywhere but on enviro-soil.com; (d) print, photocopy or scan articles on enviro-soil.com or copies of articles.</p>
+	</ul>
+	</footer>
+</div>
+<!-- end Footer -->
+
+<!-- Scripts -->
+	<script src="https://enviro-soil.com/soils101/assets/js/jquery.min.js"></script>
+	<script src="https://enviro-soil.com/soils101/assets/js/jquery.dropotron.min.js"></script>
+	<script src="https://enviro-soil.com/soils101/assets/js/skel.min.js"></script>
+	<script src="https://enviro-soil.com/soils101/assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="https://enviro-soil.com/soils101/assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="https://enviro-soil.com/soils101/assets/js/main.js"></script>
+	<script>
+        window.onload = function() {
+            var labels = document.getElementsByTagName('label');
+            for (var i = 0; i < labels.length; i++) {
+                disableSelection(labels[i]);
+            }
+        };
+        function disableSelection(element) {
+            if (typeof element.onselectstart != 'undefined') {
+                element.onselectstart = function() { return false; };
+            } else if (typeof element.style.MozUserSelect != 'undefined') {
+                element.style.MozUserSelect = 'none';
+            } else {
+                element.onmousedown = function() { return false; };
+            }
+        }
+	</script>
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async>
+	</script>
+<!-- End Scripts -->
+
+
+	</body>
+</html>

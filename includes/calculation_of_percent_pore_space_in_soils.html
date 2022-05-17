@@ -1,0 +1,306 @@
+<!DOCTYPE HTML>
+<!--
+	Verti by Pixelarity
+	pixelarity.com @pixelarity
+	License: pixelarity.com/license
+-->
+<html>
+	<head>
+		<title>Calculating of Percent Pore Space</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="https://enviro-soil.com/soils101/assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="https://enviro-soil.com/soils101/assets/css/main.css" />
+		<!--[if lte IE 8]><link rel="stylesheet" href="https://enviro-soil.com/soils101/assets/css/ie8.css" /><![endif]-->
+		<meta name="author" content="Donald G. McGahan, Ph.D."/>
+		<style type="text/css">
+			.unselectable {
+			  -webkit-user-select: none;  /* Chrome all / Safari all */
+			  -moz-user-select: none;     /* Firefox all */
+			  -ms-user-select: none;      /* IE 10+ */
+			  user-select: none;          /* Likely future */       
+			  -webkit-touch-callout: default   /* displays the callout */
+			  -webkit-touch-callout: none      /* disables the callout */
+			}
+		</style>
+	</head>
+	<body class="no-sidebar">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<header id="header" class="container">
+
+						<!-- Logo -->
+							<div id="logo">
+								<h1><a href="https://enviro-soil.com/soils101/index.html">Soils Reader</a></h1>
+								<span>by Donald G. McGahan</span>
+							</div>
+						<!-- end Logo -->
+							
+<!-- Nav -->
+	<nav id="nav">
+	<ul>
+		<li><a href="#">Content</a>
+			<ul>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Introduction.html">Introduction</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/functions.html">Functions</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/complexity.html">Complexity</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Physical_Properties.html">Physical Properties</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/size-separates.html">Size Separates</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/textural-classes.html">Textural Class</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/particle-arrangement.html">Particle Arrangement</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/density.html">Density</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/porosity.html">Porosity</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/soil_color.html">Color</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/engineering.html">Engineering</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/erosion.html">Erosion</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Chemical.html">Chemical</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/mineralogy.html">Mineralogy</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/acidity.html">Acidity</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/alkalinity.html">Alkalinity</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Climate.html">Climate</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/water.html">Water</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/aeration.html">Aeration</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/temperature.html">Temperature</a></li>
+					</ul>				
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Biology.html">Biology</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/ecology.html">Ecology</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/organisms.html">Organisms</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/organic_matter.html">Organic Matter</a></li>
+					</ul>	
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Classification.html">Classification</a>				
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/differentiation.html">Differentiation</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/comparing.html">Comparing</a></li>
+					</ul>
+				</li>
+				<li>
+					<a href="https://enviro-soil.com/soils101/includes/Mineral_Nutrition_for_Plants.html">Mineral Nutrition for Plants</a>
+					<ul>
+						<li><a href="https://enviro-soil.com/soils101/includes/nitrogen.html">Nitrogen</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/phosphorus.html">Phosphorus</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/potassium.html">Potassium</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/sulfur.html">Sulfur</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/calcium.html">Calcium</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/magnesium.html">Magnesium</a></li>
+						<li><a href="https://enviro-soil.com/soils101/includes/micronutrients.html">Micronutrients</a></li>
+	
+					</ul>
+				</li>
+			</ul>
+			</li>
+		<!--<li class="current"><a href="./index.html">Introduction</a></li>-->
+		<!--<li><a href="https://enviro-soil.com/enviro-soil/index.html">Back to Enviro-Soil</a></li>-->
+	</ul>
+	</nav>
+<!-- end Nav -->
+
+						
+					</header>
+				</div>
+			<!-- end Header -->
+
+			<!-- Main -->
+			
+				<div id="main-wrapper">
+					<div class="container">
+						<div id="content">
+		
+<!-- Content -->
+
+	<article>
+	<!--<div unselectable="on" class="unselectable">-->
+		
+		<h2 id="percentporespace">Calculating of Percent Pore Space</h2>
+		<p>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</p>
+		<p>See the Glossary for a definition of porosity <a href="../includes/Glossary.html#porosity">&#8505;</a>.</p>
+
+<p>The bulk density of a soil can be easily measured and particle density can usually be assumed to be \( 2.65 Mg/m³ \) (or \( 2.65 g/cm³ \)) for most silicate-dominated mineral soils. Other direct measurment of the porespace in soil requires the use of much more tedious and expensive techniques. Therefore, when information of the percent pore space is needed it is oftern desirable to calculate the pore space form data on bulk and particle densitites.</p>
+
+<p>The derivation of the formula used to calculate the percentage of total pore space in soil follows:<br />
+Let</p>
+
+<ul>
+<li>D<sub>b</sub>&nbsp;&#61;&nbsp;bulk&nbsp;density,&nbsp;Mg/m³</li>
+<li>D<sub>p</sub>&nbsp;&#61;&nbsp;particle&nbsp;density,&nbsp;Mg/m³</li>
+<li>W<sub>s</sub>&nbsp;&#61;&nbsp;Weight&nbsp;of&nbsp;soil&nbsp;(solids),&nbsp;Mg</li>
+<li>V<sub>s</sub>&nbsp;&#61;&nbsp;volume&nbsp;of&nbsp;solids,&nbsp;m³</li>
+<li>V<sub>p</sub>&nbsp;&#61;&nbsp;volume&nbsp;of&nbsp;pores,&nbsp;m³</li>
+<li>V<sub>s</sub>&nbsp;&#43;&nbsp;V<sub>p</sub>&nbsp;&#61;&nbsp;total&nbsp;soil&nbsp;volume,&nbsp;and&nbsp;let&nbsp;total&nbsp;soil&nbsp;volume&nbsp;be;&nbsp;V<sub>t</sub></li>
+</ul>
+
+<p>By definition,</p>
+
+<p>\(\frac{W_s}{V_s} = D_p \) and \(\frac{ W_s }{ V_s + V_p } = D_b \)</p>
+
+<p>Solving for \( W_s \) gives</p>
+
+<p>\( W_s = D_p \times V_s \) and \(W_s = D_b \left( V_s + V_p \right) \)</p>
+
+<p>Therefore</p>
+
+<p>\( V_s \, + \, V_p = \text{total soil volume, or; } V_t\)</p>
+
+<p->By definition,</p>
+
+<p>\( \frac{W_s}{V_s} = D_p \) and \( \frac{W_s}{V_s\,+\,V_p} = D_b \)</p>
+
+<p>Solving for \( W_s \) gives</p>
+
+\(W_s = D_p \times V_s\) and \(W_s = D_b \left( V_s + V_p \right) \)</p>
+
+<p>Therefore</p>
+
+<p>\( D_p \times V_s = D_P \left( V_s + V_p \right) \) and \( \frac{V_s}{V_s\,+\,V_p} = \frac{D_b}{D_p} \)</p>
+
+<p>Since</p>
+
+\( \frac {V_s}{V_s\,+\,V_p} \times 100 = \text{% solid space} \) then</p>
+
+\( \text{% soild space} = \frac{D_p}{D_p} \times 100 \)</p>
+
+<p>Since \( \text{% pore space} + \text{% solid space} = 100\% \) then</p>
+
+<p>\( \text{% pore space} = 100\% - \left( \frac{D_b}{D_p} \times 100 \right) \)
+
+<h3>Example</h3>
+
+<p>consider a cultivate clay soil with a bulk denisty determined to be 1.28 Mg/m³. If we have no information on the particle density, we assume that the particle density is approbimately that of the common silicate minerals (i.e. 2.65 Mg/m³). We calculate the percent pore space usin gthe formula derived above:
+\( 
+\begin{aligned}
+\%\,pore\,space &= 100\% - \left( \frac{1.28\,Mg/m³}{2.65\,Mg/m³} \times 100 \right) \\
+                &= 100\% - 48.3 \\
+                &= 51.7\%
+\end{aligned}
+\)</p>
+
+<p>The example and solution above could also be derived without percent. Simply adjust that the whole will not be 100\% but 1. The quotent of the bulk density over the particle denisty should result in a value less than one and represents the fraction of the whole (1) that is occupied by the solids. Taking this less than one solid fraction away from one (1) will yield the fraction of the whole that is pores.</p>
+
+<p>This value of pore space, \(51.7\%\), is close to the typical percentage of air and water spcace typically described in introductory soils and representing medium- to fine-textured soil in good condition for plant growth. This calculation tells us nothing about the relative amounts of large and small pores, however, and so must be interpreted with caution.</p>
+
+<p>Not all soils lend themselves to adopting the assumption that the particle density is \( 2.65\,Mg/m³ \). Soils replete in iron oxide minerals might easly have aggregated particle densitites as high as \( 3.5\,Mg/m³ \). Soils that are often much lower in particle density than the typical assumption of \( 2.65\,Mg/m³ \) are those with high organic matter content and those formed in recient, geologically recient anyway, ash depositions.</p>
+
+<p><strong>Note:</strong> that the above dimesnsions are using the SI units (m,kg,sec). It is not uncommon to see the use of the cgs (cm, g, sec) units levereged. The assumed particle density presented in SI as \( 2.65\,Mg/m³ \) in cgs is \( 2.65\,g/cm³ \). </p>
+
+								</div>
+								</article>
+							<!-- end Content -->
+		
+						</div>
+					</div>
+				</div>
+		
+			<!-- end Main -->
+
+<!-- Footer -->
+<div id="footer-wrapper">
+	<footer id="footer" class="container">
+		<div class="row">
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Additional Resources</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/soils101/includes/Glossary.html">Glossary</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Math-helps.html">Maths helps</a></li>
+							<li><a href="https://enviro-soil.com/soils101/includes/Chemistry-helps.html">Chemistry helps</a></li>
+							<li><a href="">Physics helps</a></li>
+						</ul>
+					</section>
+					
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Other Portals</h3>
+						<ul class="style2">
+							<li><a href="https://enviro-soil.com/enviro-soil/index.html">Enviro-Soil</a></li>
+						</ul>
+					</section>
+					
+			</div>
+
+			<div class="3u 6u(medium) 12u$(small)">
+
+				<!-- Links -->
+					<section class="widget links">
+						<h3>Unattached Pages</h3>
+						<ul class="style2">
+							<li><a href=""></a></li>
+						</ul>
+					</section>
+					
+			</div>
+		</div>
+		
+		<div class="row">
+			<div class="12u">
+				<div id="copyright">
+					<ul class="menu">
+						<li>Tested only in Firefox web browser</li>
+						<li></li>
+						<li>&copy; 2007 Donald G. McGahan (aka soilman) All Rights Reserved</li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<ul id="footer-wrapper">
+		<p>By accessing enviro-soil.com, you acknowledge that all enviro-soil Content is the property of enviro-soil. Visitors and Subscribers are granted a limited, revocable, non-sublicensable and non-transferable license to access enviro-soil for personal, non-commercial use. No intellectual property rights in any enviro-soil content are transferred to you.</p>
+		<p>As a user of enviro-soil.com you may not: (a) store or archive, download or cache, publish, republish or redistribute, communicate or disseminate, alter, adapt, amend, incorporate, merge, sell, translate, localize, copy or otherwise alter any enviro-soil content, including, but not limited to, articles, text, photographs, graphics, artwork, images, tables, data, files, video or audio in any way; (b) create derivative works from the enviro-soil content; (c) view enviro-soil content anywhere but on enviro-soil.com; (d) print, photocopy or scan articles on enviro-soil.com or copies of articles.</p>
+	</ul>
+	</footer>
+</div>
+<!-- end Footer -->
+
+	<!-- Scripts -->
+		<script src="https://enviro-soil.com/soils101/assets/js/jquery.min.js"></script>
+		<script src="https://enviro-soil.com/soils101/assets/js/jquery.dropotron.min.js"></script>
+		<script src="https://enviro-soil.com/soils101/assets/js/skel.min.js"></script>
+		<script src="https://enviro-soil.com/soils101/assets/js/util.js"></script>
+		<!--[if lte IE 8]><script src="https://enviro-soil.com/soils101/assets/js/ie/respond.min.js"></script><![endif]-->
+		<script src="https://enviro-soil.com/soils101/assets/js/main.js"></script>
+		<script>
+	        window.onload = function() {
+	            var labels = document.getElementsByTagName('label');
+	            for (var i = 0; i < labels.length; i++) {
+	                disableSelection(labels[i]);
+	            }
+	        };
+	        function disableSelection(element) {
+	            if (typeof element.onselectstart != 'undefined') {
+	                element.onselectstart = function() { return false; };
+	            } else if (typeof element.style.MozUserSelect != 'undefined') {
+	                element.style.MozUserSelect = 'none';
+	            } else {
+	                element.onmousedown = function() { return false; };
+	            }
+	        }
+		</script>
+		</script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
+	<!-- End Scripts -->
+</body>
+</html>
