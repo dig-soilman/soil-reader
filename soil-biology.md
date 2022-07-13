@@ -10,7 +10,7 @@ comments: false
 
 <p>Separating the physical soil properties from biologically mediated properties—attimes—helps understanding of the biologicals themselves, and the soil.</p>
 
-<h3>Ecosystem, Ecology, Ecosystem Services, Biogeochemistry, and Geochemistry<h3>
+<h3>Ecosystem, Ecology, Ecosystem Services, Biogeochemistry, and Geochemistry</h3>
 
 <p>An introductory survey of Soil—as a medium for sustaining biologicals—is a noble cause.This section first has some information about ecology since the spotlight oftenshines on the lead character, and many consider what soil brings to biologicals tobe the their interest. The Ecology presented in this reader is not in any way adeep dive. Rather, it is a comparison to Ecosystem and Biogeochemistry with thegoal of grounding the learner. The [Ecology](ecology) portal.</p>
 
