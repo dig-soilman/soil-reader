@@ -5,30 +5,20 @@ subtitle: Soil Biology
 tags: welcoming
 comments: false
 ---
-This page is in edit...
-## Soil Biology
+<p>This page is in edit...</p>
+<h2>Soil Biology</h2>
 
-Separating the physical soil properties from biologically mediated properties—at
-	times—helps understanding of the biologicals themselves, and the soil.
+<p>Separating the physical soil properties from biologically mediated properties—attimes—helps understanding of the biologicals themselves, and the soil.</p>
 
-### Ecosystem, Ecology, Ecosystem Services, Biogeochemistry, and Geochemistry
+<h3>Ecosystem, Ecology, Ecosystem Services, Biogeochemistry, and Geochemistry<h3>
 
-An introductory survey of Soil—as a medium for sustaining biologicals—is a noble cause.
-	This section first has some information about ecology since the spotlight often
-	shines on the lead character, and many consider what soil brings to biologicals to
-	be the their interest. The Ecology presented in this reader is not in any way a
-	deep dive. Rather, it is a comparison to Ecosystem and Biogeochemistry with the
-	goal of grounding the learner. The [Ecology](ecology) portal.
+<p>An introductory survey of Soil—as a medium for sustaining biologicals—is a noble cause.This section first has some information about ecology since the spotlight oftenshines on the lead character, and many consider what soil brings to biologicals tobe the their interest. The Ecology presented in this reader is not in any way adeep dive. Rather, it is a comparison to Ecosystem and Biogeochemistry with thegoal of grounding the learner. The [Ecology](ecology) portal.</p>
 
-The [Organisms portal](organisms) brings an appreciation for the fact that soil is the
-	most diverse Ecosystem on Earth.
+<p>The Organisms subsection brings an appreciation for the fact that soil is the most diverse Ecosystem on Earth.</p>
 
-The organisms themselves not only channel energy, but they leave behind energetic [soil
-	organic matter (SOM)](soil organic matter) utilized by still more organisms. Indeed
-	if it were not for decomposing heterotrophs we would be covered up in biological
-	waste.
+<p>The organisms themselves not only channel energy, but they leave behind energetic soilorganic matter (SOM) utilized by still more organisms. Indeedif it were not for decomposing heterotrophs we would be covered up in biologicalwaste.</p>
   
-### Ecosystem, Ecology, Biogeochemistry, and Ecosystem Ecology
+<h3>Ecosystem, Ecology, Biogeochemistry, and Ecosystem Ecology</h3>
 
 <p>The discussion of soil solids and pores includes information that is fundamental to understanding soils many roles. Soil might be described and considered passive when used as a <u>noun</u>, such as when it is considered an <em>environment</em> either as habitat or setting.</p>
 
@@ -61,20 +51,15 @@ The organisms themselves not only channel energy, but they leave behind energeti
 <p>Note that in the definition of Biogeochemistry is the concept of spheres.</p>
 
 <dl><dt>Biosphere</dt><dd>The worldwide sum of all ecosystems.</dd>
-  <dd>It can also be termed the zone of life on Earth.</dd></dl>
-
-<dl><dt>Cryosphere</dt><dd>An all-encompassing term for those portions of Earth's surface where water is in solid form, including sea ice, lake ice, river ice, snow cover, glaciers, ice caps, ice sheets, and frozen ground (which includes permafrost).</dd>
-  <dd>There is a wide overlap with the hydrosphere.</dd></dl>
-
-<dl><dt>Hydrosphere</dt><dd>The combined mass of water found on, under, and above the surface.</dd></dl>
-
-<dl><dt>Atmosphere</dt><dd>Commonly known as air, that surrounds the planet Earth and is retained by Earth's gravity.</dd></dl>
-
-<dl><dt>Lithosphere</dt>
+  <dd>It can also be termed the zone of life on Earth.</dd>
+<dt>Cryosphere</dt><dd>An all-encompassing term for those portions of Earth's surface where water is in solid form, including sea ice, lake ice, river ice, snow cover, glaciers, ice caps, ice sheets, and frozen ground (which includes permafrost).</dd>
+  <dd>There is a wide overlap with the hydrosphere.</dd>
+><dt>Hydrosphere</dt><dd>The combined mass of water found on, under, and above the surface.</dd>
+<dt>Atmosphere</dt><dd>Commonly known as air, that surrounds the planet Earth and is retained by Earth's gravity.</dd>
+<dt>Lithosphere</dt>
   <dd>On Earth, it is composed of the crust and the portion of the upper mantle that behaves elastically on time scales of thousands of years or greater.</dd>
-  <dd>The outermost shell of a rocky planet, the crust, is defined on the basis of its chemistry and mineralogy.</dd></dl>
-
-<dl><dt>Pedosphere</dt>
+  <dd>The outermost shell of a rocky planet, the crust, is defined on the basis of its chemistry and mineralogy.</dd>
+<dt>Pedosphere</dt>
   <dd>The outermost layer of the Earth that is composed of soil and subject to soil formation processes.</dd>
   <dd>It exists at the interface of the lithosphere, atmosphere, hydrosphere and biosphere.</dd>
   <dd>The pedosphere is the skin of the Earth and only develops when there is a dynamic interaction between the atmosphere (air in and above the soil), biosphere (living organisms), lithosphere (unconsolidated regolith and consolidated bedrock) and the hydrosphere (water in, on and below the soil). The pedosphere is the foundation of terrestrial life on Earth.</dd></dl>
@@ -553,13 +538,13 @@ The organisms themselves not only channel energy, but they leave behind energeti
 </tbody>
 </table>
 	
-	<p><sup>†</sup>Plant residue <i>ash</i> is composed of inorganic elements such as Ca, Mg, K (Ash as in the stuff that accumulates at the bottom of the fireplace).</p>
+<p><sup>†</sup>Plant residue <i>ash</i> is composed of inorganic elements such as Ca, Mg, K (Ash as in the stuff that accumulates at the bottom of the fireplace).</p>
 	
-	<p>Most soils have less than 5% organic matter by weight. The amount of organic matter found in a soil is a balance between organic matter <u>production</u>production and <u>decomposition</u>.</p>
+<p>Most soils have less than 5% organic matter by weight. The amount of organic matter found in a soil is a balance between organic matter <u>production</u>production and <u>decomposition</u>.</p>
 	
-	<p><strong>What factors influence organic matter production and decomposition rates?</strong></p>
+<p><strong>What factors influence organic matter production and decomposition rates?</strong></p>
 	
-<table class="default">
+<table>
 	<caption style="line-height:1">Table -- Retaliative decomposability of organic compounds.</caption>
 	<col style="width:40%">
 	<col style="width:30%">
