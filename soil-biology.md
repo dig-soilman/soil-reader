@@ -601,14 +601,11 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	
 <dl><dt>O horizon</dt>
 	<dd>a surface layer dominated by organic materials (> 20% organic carbon; by weight.)</dd></dl>
-	
-<dl><dt>Oi</dt>
-	<dd>slightly decomposed organic matter. The `i' is an abbriviation for <i>fibric</i> and morphologically this means that the describer can still identify the original plant and animal remains</dd></dl>
-	
-<dl><dt>Oe</dt>
-	<dd>the organic matter is intermediately decomposed. The `e' is an abbreviation for <i>hemic</i> and morphologically this means that the describer can see some identifiable plant parts but their decomposition is in-between fibric (i) and sapric (a).</dd></dl>
-	
-<dl><dt>Oa</dt>
+	<dt>Oi</dt>
+	<dd>slightly decomposed organic matter. The `i' is an abbriviation for <i>fibric</i> and morphologically this means that the describer can still identify the original plant and animal remains</dd>
+	<dt>Oe</dt>
+	<dd>the organic matter is intermediately decomposed. The `e' is an abbreviation for <i>hemic</i> and morphologically this means that the describer can see some identifiable plant parts but their decomposition is in-between fibric (i) and sapric (a).</dd>
+	<dt>Oa</dt>
 	<dd>the organic matter is highly decomposed. The `a' is an abbreviation for <i>sapric</i> and morphologically this means that the describer can not identify the original source of the organic material.</dd></dl>
 
 <h3>Fractionation of the Soil Organic Matter</h3>
