@@ -502,23 +502,24 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<li>Colloidal decayed residues</li>
 	<li>Water-soluble organic compounds</li>
 </ol>		
+
+<p>Plant Tissue ⟶ Microbes ⟶ Humus</p>
+
+<p>Animal Tissue ⟶ Microbes ⟶ Humus</p>
 	
-	<p>Plant Tissue ⟶ Microbes ⟶ Humus</p>
-	<p>Animal Tissue ⟶ Microbes ⟶ Humus</p>
+<p>The microbial communities are harvesting the energy, metabolism, stored in the compounds. To simplify the reaction is shown with sugar below.</p>
 	
-	<p>The microbial communities are harvesting the energy, metabolism, stored in the compounds. To simplify the reaction is shown with sugar below.</p>
+<p>C₆H₁₂O₆ + O₂ ⇄ 6 CO₂↑&nbsp;+  H₂O + <b>Energy</b></p>
 	
-	<p>C₆H₁₂O₆ + O₂ ⇄ 6 CO₂↑&nbsp;+  H₂O + <b>Energy</b></p>
+<p>Organic Matter + Oxygen ⇄ Carbon Dioxide↑ + Water + <b>Energy</b></p>
 	
-	<p>Organic Matter + Oxygen ⇄ Carbon Dioxide↑ + Water + <b>Energy</b></p>
+<p>Opposite of the building of organic matter by photosynthesis.</p>
 	
-	<p>Opposite of the building of organic matter by photosynthesis.</p>
+<p>Metabolism (e.g. respiration) ⇄ Photosynthesis</p>
 	
-	<p>Metabolism (e.g. respiration) ⇄ Photosynthesis</p>
+<p>Metabolism rarely encounters only something as simple as the sugar (C₆H₁₂O₆) depicted above. Thus the residence time of the carbon in the soil can be long lived. Organisms will continue decomposition to attain C and the other remaining nutrients needed for their life cycle. Composition of the carbon containing compounds impacts soil nutrient levels for plants and for the soil environment at large.</p>
 	
-	<p>Metabolism rarely encounters only something as simple as the sugar (C₆H₁₂O₆) depicted above. Thus the residence time of the carbon in the soil can be long lived. Organisms will continue decomposition to attain C and the other remaining nutrients needed for their life cycle. Composition of the carbon containing compounds impacts soil nutrient levels for plants and for the soil environment at large.</p>
-	
-	<p>Plant mass is 60% to 90% water.  The remaining dry matter is dominated by carbon, oxygen, and hydrogen.</p>
+<p>Plant mass is 60% to 90% water.  The remaining dry matter is dominated by carbon, oxygen, and hydrogen.</p>
 	
 <table>
 	<caption style="line-height:1.25">Table -- Listing the composition of plants as percentage of mass basis.</caption>
@@ -596,19 +597,19 @@ The organisms themselves not only channel energy, but they leave behind energeti
 </tbody>
 </table>
 	
-	<p>When we describe a soils morphology we assign the soils organizational packets (horizons) and if they are dominantly organic material we assign a master horizon designator of ‘O’ We then can add more meaning to the ‘O’ by adding subordinate designators.</p>
+<p>When we describe a soils morphology we assign the soils organizational packets (horizons) and if they are dominantly organic material we assign a master horizon designator of ‘O’ We then can add more meaning to the ‘O’ by adding subordinate designators.</p>
 	
-	<dl><dt>O horizon</dt>
-			<dd>a surface layer dominated by organic materials (> 20% organic carbon; by weight.)</dd></dl>
+<dl><dt>O horizon</dt>
+	<dd>a surface layer dominated by organic materials (> 20% organic carbon; by weight.)</dd></dl>
 	
-	<dl><dt>Oi</dt>
-			<dd>slightly decomposed organic matter. The `i' is an abbriviation for <i>fibric</i> and morphologically this means that the describer can still identify the original plant and animal remains</dd></dl>
+<dl><dt>Oi</dt>
+	<dd>slightly decomposed organic matter. The `i' is an abbriviation for <i>fibric</i> and morphologically this means that the describer can still identify the original plant and animal remains</dd></dl>
 	
-	<dl><dt>Oe</dt>
-			<dd>the organic matter is intermediately decomposed. The `e' is an abbreviation for <i>hemic</i> and morphologically this means that the describer can see some identifiable plant parts but their decomposition is in-between fibric (i) and sapric (a).</dd></dl>
+<dl><dt>Oe</dt>
+	<dd>the organic matter is intermediately decomposed. The `e' is an abbreviation for <i>hemic</i> and morphologically this means that the describer can see some identifiable plant parts but their decomposition is in-between fibric (i) and sapric (a).</dd></dl>
 	
-	<dl><dt>Oa</dt>
-			<dd>the organic matter is highly decomposed. The `a' is an abbreviation for <i>sapric</i> and morphologically this means that the describer can not identify the original source of the organic material.</dd></dl>
+<dl><dt>Oa</dt>
+	<dd>the organic matter is highly decomposed. The `a' is an abbreviation for <i>sapric</i> and morphologically this means that the describer can not identify the original source of the organic material.</dd></dl>
 
 <h3>Fractionation of the Soil Organic Matter</h3>
 
@@ -627,7 +628,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<p>Because it is complex it is operationally defined as outlined in the following diagram.</p>
 	
 	<figure>
-		<img src="images/SOMfractions.png" style="width:548px;height:442px" />
+		<img src="images/SOMfractions.png" style="width:548px;height:442px">
 		<figcaption>Above is the operational definitions of humus via flow diagram. After M. H. B. Hayes and R. S. Swift. 1978. The chemistry of soil organic colloids. In D. J. Greenland and M. H. B. Hayes (eds.), The Chemistry of Soil Constituents. New York: Wiley.</figcaption>
 	</figure>
 	
