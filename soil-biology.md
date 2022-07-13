@@ -95,7 +95,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <p>Soil texture (particle size distribution), structure (particle arrangement), and depth of <a href="../includes/Glossary.html#pedon">pedon</a> all influence the flow and quality of underground and surface water and the environmental behavior of hazardous chemicals. These three soil properties largely control the land&#8217;s ability to:</p>
 
-<ul class="reader">
+<ul>
   <li>Take in, retain, and release water.</li>
   <li>Maintain plant cover and resist erosion.</li>
   <li>Retain, destroy, or leak hazardous materials from spills, waste disposals, pesticides, and fertilizers.</li>
@@ -209,7 +209,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h4>Earthworms - &gt;7000 species; some are up to 10 feet long!</h4>
 
-<ul class="reader">
+<ul>
 	<li>ingest organic matter and microorganisms for their nutrition</li>
 	<li>ingest a weight of soil 2 to 30 times their own weight each day</li>
 	<li>thrive in the upper 15 to 35 cm of moist, well aerated soils with high calcium and moderate pH values (5.5 to 8.5)</li>
@@ -217,7 +217,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h4>Termites - ≓ 2000 species;</h4>
 
-<ul class="reader">
+<ul>
 	<li>major roles are breakdown of organic matter and mixing of soil</li>
 	<li>most prominent in grasslands and forests of the tropical and subtropical areas</li>
 	<li>microorganisms in their gut assist in the decomposition process</li>
@@ -226,7 +226,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h4>Ants - ≓ 9000 species</h4>
 
-<ul class="reader">
+<ul>
 	<li>especially active in humid tropical areas</li>
 	<li>feed on organic matter, living plant tissue or other soil organisms</li>
 </ul>
@@ -235,7 +235,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h4>Important roles of macroanimals</h4>
 
-<ol class="reader">
+<ol>
 	<li>Physically breakdown organic materials exposing more surface area</li>
 	<li>Increase aeration and improve drainage</li>
 	<li>Mix and granulate the soil</li>
@@ -248,13 +248,13 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h4>Nematodes - 4-100 &mu;m in cross-section and a few millimeters in length</h4>
 
-<ul class="reader">
+<ul>
 	<li>most are predatory on other nematodes, fungi, bacteria, etc., but some infect (eat) the roots of plants and may cause crop damage</li>
 </ul>
 
 <h4>Protozoa - ≓ 350 species; 6 - 10 &mu;m in diameter</h4>
 
-<ul class="reader">
+<ul>
 	<li>primarily eat soil bacteria by capturing and engulfing them; many cause serious animal and human diseases</li>
 </ul>
 
@@ -263,7 +263,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<dd></dd>
 </dl>
 
-<ul class="reader">
+<ul>
 	<li><strong>Roots</strong> of higher plants are a major source of organic matter in soils, especially in grassland soils.</li>
 	<li><strong><a href="https://enviro-soil.com/soils101/includes/Glossary.html#rhizosphere">Rhizosphere</a></strong> is the zone of soil significantly influenced by living roots (≓2 mm zone around root); this zone has a lower pH, higher organic matter (root exudates) and increased microbial activity.</li>
 </ul>
@@ -273,7 +273,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<dd>An aquatic, eucaryotic, plantlike, photosynthetic organism, mostly microscopic, often single celled.</dd>
 </dl>
 
-<ul class="reader">
+<ul>
 	<li>Many algae contain chlorophyll and are thus capable of photosynthesis (found near the soil surface)</li>
 </ul>
 
@@ -282,7 +282,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<dd>Symbiosis between fungi and algae or bluegreen bacteria, commonly forming a flat, spreading growth on surfaces of rocks, tree trunks, and soil.</dd>
 </dl>
 
-<ul class="reader">
+<ul>
 	<li>Soil stabilization.</li>
 </ul>
 
@@ -291,7 +291,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<dd>Eukaryote microorganisms with a rigid cell wall. Some form long filaments of cells called hyphae that may grow together to form a visible body.</dd>
 </dl>
 
-<ul class="reader">
+<ul>
 	<li>Tens of thousands of species; most are heterotrophs</li>
 	<li>dominant microorganism under acidic conditions</li>
 	<li>many cause disease in plants (damping off disease)</li>
@@ -340,7 +340,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<dd>One of two domains of single celled organisms. These microorganisms are prokaryotes and have no cell nucleus.</dd>
 </dl>
 
-<ul class="reader">
+<ul>
 	<li>≓ 0.5 to 5 &mu;m</li>
 	<li>most diverse group of soil organisms</li>
 	<li>single celled</li>
@@ -359,12 +359,11 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <p>These can also be used to categorize the organisms.</p>
 
-<ol class="reader">
+<ol>
 <li>Oxygen requirement
-<ol class="readerSub">
-	<li><strong>Aerobic</strong> - must have oxygen
-
-	<ol class="readerSub2">
+  <ol>
+    <li><strong>Aerobic</strong> - must have oxygen
+	<ol>
 		<li>In most cases, optimum oxygen ranges from atmospheric levels (21%) to about 10%.</li>
 		<li>&lt; about 10% O₂, many aerobic processes such as decomposition begin too slow.</li>
 		<li>Protozoa and nematodes need water in which to move, but O₂ for respiration.</li>
@@ -375,17 +374,17 @@ The organisms themselves not only channel energy, but they leave behind energeti
 </ol>
 </li>
 <li>Moisture relationship
-<ol class="readerSub">
+<ol>
 	<li>Optimum moisture level is generally near field capacity (&Psi;<sub>m</sub> = -0.1 to -0.3 bars)</li>
 	<li>Can maintain low activities even at very low moisture contents (down to &Psi;<sub>m</sub> = -35 bars)</li>
 	<li>Moisture content affects oxygen supply</li>
 </ol>
 </li>
 <li id="temperatureRangeMetabolism">Temperature range
-<ol class="readerSub">
+<ol>
 	<li>Bacteria activity is generally greatest at 20 to 40℃ (70-100℉)</li>
 	<li>Activity is very slow at temperatures less than 5 ℃
-	<ol class="readerSub2">
+	<ol>
 		<li>In general microbial activity increases as temperature increases until temperature starts to interfere with microbial integrity (denature proteins, etc.).</li>
 		<li>As soil temperature increases from 0 ℃ to about 15 ℃ there is a linear increase in decomposition rate.</li>
 		<li>From 15 ℃ to about 40 ℃, the decomposition rate increases 2 to 3 times for each 10 ℃ increase in temperature. (Similar to Van&#39;t Hoff&#39;s Rule).</li>
@@ -393,7 +392,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	</ol>
 	</li>
 	<li>three broad groups of microorganisms which tend to dominate the overall microbial populations within three temperature ranges:
-	<ol class="readerSub2">
+	<ol>
 		<li>&lt; 15 ℃ (psychrophiles).</li>
 		<li>15 to 40 ℃ (mesophiles, the majority of soil organisms).</li>
 		<li>&gt; 40 ℃ (thermophiles).</li>
@@ -405,10 +404,10 @@ The organisms themselves not only channel energy, but they leave behind energeti
 </ol>
 </li>
 <li>Organic matter requirements
-<ol class="readerSub">
+<ol>
 	<li>Organic matter is used as an energy source for the majority of bacteria (heterotrophic)</li>
 	<li>SOM associated N and P nutrients
-	<ol class="readerSub2">
+	<ol>
 		<li>There is a more rapid release of N for low C:N ratios.</li>
 		<li>Net N mineralization for C:N values of &lt; 25:1</li>
 		<li>Net N immobilization for higher C:N ratios</li>
@@ -420,7 +419,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 </ol>
 </li>
 <li>Exchangeable calcium and pH
-<ol class="readerSub">
+<ol>
 	<li>High calcium concentrations and pH values from 6-8 generally are best</li>
 	<li>Calcium and pH play a major role in determining the specific bacteria present</li>
 	<li>Certain bacteria function at very low pH (&lt;3.0) and a few at high pH values (&gt;10)</li>
@@ -432,9 +431,9 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h3>Important beneficial activities of soil organisms</h3>
 
-<ol class="reader">
+<ol>
 	<li>Decomposition of organic residues with release of nutrient elements (mineralization)
-	<ul class="readerSub">
+	<ul>
 		<li>Organic Matter + O₂ ⟶ CO₂ + H₂O (The respiration process)</li>
 		<li>Organic Matter ⟶ nutrients (Mineralization process)</li>
 	</ul>
@@ -443,7 +442,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<li>Improvement of soil physical properties (<em>e.g.,</em> soil structure, drainage, aeration, bulk density)</li>
 	<li>Release of plant nutrients from insoluble inorganic soil minerals (production of chelates)</li>
 	<li>Fixation of nitrogen from atmosphere
-	<ul class="readerSub">
+	<ul>
 		<li>(<em>e.g.,</em> <em>Rhizobium</em> on legumes, <em>Frankia</em> on alder) N-fixation N₂ + 3&thinsp;H₂ ⟶ 2&thinsp;NH₃</li>
 	</ul>
 	</li>
@@ -454,17 +453,18 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h3>Role in soil biochemical reactions:</h3>
 
-<ol class="reader">
+<ol>
 	<li>Nitrification NH₄⁺ + 2&thinsp;O₂ ⟶ NO₃&macr; + H₂O + 2&thinsp;H⁺</li>
 	<li>Oxidation/Reduction of inorganic elements:</li>
 	<li>Fe&sup3;⁺⟶ Fe&sup2;⁺</li>
 	<li>NO₃&macr; ⟶ N₂ (gas) (denitrification)</li>
 </ol>
+
 <a name="Deleterious.effects.of.soil.organisms"></a>
 
 <h3>Deleterious effects of soil organisms</h3>
 
-<ol class="reader">
+<ol>
 	<li>Soil fauna eat agricultural and garden produce (<em>e.g.,</em> slugs, snails, nematodes, aphids)</li>
 	<li>Plant diseases - wilts, damping-off, root rots, blight, and rusts by <strong>fungi</strong> (most important), bacteria, &amp; actinomycetes</li>
 	<li>Competition for nutrients - nitrogen deficiencies can result from microbial theft of available nitrogen when organic materials with a high C/N ratio are applied</li>
@@ -473,26 +473,28 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h2>Soil Organic Matter</h2>
 
-	<p>The original source of all organic matter is from plant tissue. The energy to fix the carbon into organic matter originates, mostly, from the sun. Microbes decompose (respiration) organic matter to obtain energy to sustain their life processes. The energy content of organic matter held in one hectare of soil with 4% organic matter is equivalent to 225 barrels of oil.</p>
+<p>The original source of all organic matter is from plant tissue. The energy to fix the carbon into organic matter originates, mostly, from the sun. Microbes decompose (respiration) organic matter to obtain energy to sustain their life processes. The energy content of organic matter held in one hectare of soil with 4% organic matter is equivalent to 225 barrels of oil.</p>
 	
-	<p>Globally soils hold considerable organic matter. Soil also has a considerable amount of carbonates and while carbonates are not organic matter they are largely present do to biological processes.</p>
+<p>Globally soils hold considerable organic matter. Soil also has a considerable amount of carbonates and while carbonates are not organic matter they are largely present do to biological processes.</p>
+
+<p>Photosynthesis ⥂ Metabolism (e.g. respiration)</p>
+
+<p>6 CO₂&nbsp;+  H₂O + <b>Energy</b> ⇄  C₆H₁₂O₆ + O₂↑</p>
+
+<p><em><strong>Note</strong>: the arrow left and right is retained here to emphasize that carbon that is fixed into plant structures is subject to decomposition. The emphasis above is that the primary productivity exceeds metabolism of the product.</em></p>
+
+<p>The inorganic carbon (IC) contained in soil carbonates is equally as considerable as the soil organic matter carbon (OC). Together the carbon content from these two soil pools, IC<sub>pool</sub> + OC<sub>pool</sub>, can constitute over twice the amount of carbon in the atmosphere and hydrosphere combined making this soil carbon pool of critical importance for global carbon processes and outcomes such as greenhouse effects impacting global warming.</p>
+
+<p>Plant tissue is overwhelmingly the source of <strong>Soil Organic Matter</strong> (<b>SOM</b>), or <strong>humus</strong>, but the tissue of living animals in the soil contributes.</p>
 	
-	<p>Photosynthesis ⥂ Metabolism (e.g. respiration)</p>
-	
-	<p>6 CO₂&nbsp;+  H₂O + <b>Energy</b> ⇄  C₆H₁₂O₆ + O₂↑</p>
-	
-	<p><em><strong>Note</strong>: the arrow left and right is retained here to emphasize that carbon that is fixed into plant structures is subject to decomposition. The emphasis above is that the primary productivity exceeds metabolism of the product.</em></p>
-	
-	<p>The inorganic carbon (IC) contained in soil carbonates is equally as considerable as the soil organic matter carbon (OC). Together the carbon content from these two soil pools, IC<sub>pool</sub> + OC<sub>pool</sub>, can constitute over twice the amount of carbon in the atmosphere and hydrosphere combined making this soil carbon pool of critical importance for global carbon processes and outcomes such as greenhouse effects impacting global warming.</p>
-	
-	<p>Plant tissue is overwhelmingly the source of <strong>Soil Organic Matter</strong> (<b>SOM</b>), or <strong>humus</strong>, but the tissue of living animals in the soil contributes.</p>
-	
-	<dl><dt>Humus</dt>
-		<dd>The stable, complex, and rather resistant mixture of dark brown to black, colloidal, organic substances that accumulates as a by-product of  <strong>microbial decomposition</strong> and <strong>synthesis</strong> of plant or animal residues added to soil. The term is often used synonymously with soil organic matter.</dd></dl>
+<dl>
+	<dt>Humus</dt>
+	<dd>The stable, complex, and rather resistant mixture of dark brown to black, colloidal, organic substances that accumulates as a by-product of  <strong>microbial decomposition</strong> and <strong>synthesis</strong> of plant or animal residues added to soil. The term is often used synonymously with soil organic matter.</dd>
+</dl>
 
 <h3>Six groups of organic matter material:</h3>
 
-<ol class="reader">
+<ol>
 	<li>Plants</li>
 	<li>Plant roots</li>
 	<li>Dead and decaying residues of plants (termed litter when on the soil surface)</li>
@@ -501,8 +503,8 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<li>Water-soluble organic compounds</li>
 </ol>		
 	
-	<p>Plant Tissue ⟶ Microbes ⟶ Humus<br />
-	Animal Tissue ⟶ Microbes ⟶ Humus</p>
+	<p>Plant Tissue ⟶ Microbes ⟶ Humus</p>
+	<p>Animal Tissue ⟶ Microbes ⟶ Humus</p>
 	
 	<p>The microbial communities are harvesting the energy, metabolism, stored in the compounds. To simplify the reaction is shown with sugar below.</p>
 	
@@ -518,7 +520,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	
 	<p>Plant mass is 60% to 90% water.  The remaining dry matter is dominated by carbon, oxygen, and hydrogen.</p>
 	
-<table class="default">
+<table>
 	<caption style="line-height:1.25">Table -- Listing the composition of plants as percentage of mass basis.</caption>
 <thead>
 	<tr style="border-top:1px solid black;border-bottom:1px solid black;">
@@ -650,7 +652,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<p>The table of Humic Substances Properties demonstrates a trend toward higher weight compounds from fulvic acid through humic acid to humin. This continuum toward weight compounds likely indicates increasing resemblance to the complex aromatic polymer lignin.</p>
 	
   
-<table class="default">
+<table>
 	<caption>Some Properties of Humic Substances</caption>
 <colgroup>
 	<col/>
@@ -710,7 +712,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h4>More About Humus</h4>
 
-<ol class="reader">
+<ol>
 	<li>Humus decomposes slowly and colors soils brown or black.</li>
 	<li>Humus has two properties in common with clay; it is highly charged, and it has a large surface area per unit mass (Table below: Surface area varies with the type of clay). Thus it is very reactive in soils.</li>
 	<li>Humus is also an aggregator.</li>
@@ -722,37 +724,37 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<p>The most chemically reactive fraction of the SOM is the microorganic fraction.</p>
 </blockquote>
 
-<ol  class="reader">  
+<ol >  
 <li>Composition of organic matter (grasslands vs forest)</li> 
-	<ol  class="readerSUB">
+	<ol >
 		<li>See Table of retaliative decomposability of organic compounds and consider that woody vegetation produces more compounds that are slow and very slow too decompose.</li>
 	</ol>  
 <li>Environmental Factors</li>
-	<ol class="reader">
+	<ol>
 		<li>Temperature</li>
-			<ol class="readerSub">
+			<ol>
 				<li>Activity generally increases with temperature until molecules become denatured at high temperature.
 				<li>Activity generally decreases slowly below 25 &#8451; and dramatically below 15&#8451;</li>
 			</ol>
 		<li>Moisture and Aeration</li>  
-			<ol class="readerSub"> 
+			<ol> 
 				<li><a href="https://enviro-soil.com/soils101/includes/Glossary.html#anaerobic">Anaerobic</a> metabolism is slower than <a href="https://enviro-soil.com/soils101/includes/Glossary.html#aerobic">aerobic</a> metabolism</li>
 				<li>Anaerobic metabolism produces more compounds that are toxic to a wide spectrum of microbes</li>
 			</ol>  
 		<li>pH</li>
-			<ol class="readerSub"> 
+			<ol> 
 				<li>affects availability of other nutrients (e.g. N and P) needed for decomposition</li>
 				<li>affects type of microbes present (bacteria populations decrease at low pH)</li>
 			</ol>  
 		<li>Clay content</li>
-			<ol class="reader">  
+			<ol>  
 				<li>clays adsorb organic matter and prevent its breakdown</li> 
 				<li>clay affects soil aeration</li>
 			</ol>   
 		<li>Agricultural practices</li>  
-		<ol class="reader">  
+		<ol>  
 			<li>increased aeration of topsoil</li>
-			<ul  class="readerSub">
+			<ul >
 				<li>tillage results in a 60-70% reduction in soil organic due to increased, though temporarily, oxygen availability</li>
 			</ul>  
 			<li>breakdown of biologically stable micro-aggregates  </li>
@@ -763,7 +765,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 <a name="Importance.of.Organic.Matter.in.Soils"></a>
 <h2>Importance of Organic Matter in Soils</h2>
 	
-<ol class="reader">  
+<ol>  
 	<li>Improves aggregation and soil structure stability</li>
 	<li>High water holding capacity (4-5 times greater than silicate clays on a mass basis)</li>
 	<li>Erosion control and improved infiltration (rate at which water enters the soil)</li>
@@ -779,7 +781,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 <dd>The conversion of an element from an organically bound form to an inorganic state–ionic form–as a result of microbial decomposition. Results in the release of elements such as Ca, Mg, K, Fe, Zn, P &amp; N.</dd></dl>
 
 		
-<table class="default">
+<table>
 	<caption>Effects of carbon/nitrogen (C/N) ratio on decomposition and nitrogen availability</caption>
 <thead>
 	<tr style="font-weight:bold;border-top:1px solid black;border-bottom:1px solid black;">
@@ -835,6 +837,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 						
 Tisdall, J. M., and J. M. Oades. 1982. Organic matter and water stable aggregates. J. Soil Sci. 33:141–163.
 
-    <h2>Additional Resources</h2>
-        <p>Bot, A. and J. Benites. 2005. The Importance of Soil Organic Matter - Key to drought-resistant soil and sustained food production. FAO Soils Bulletin 80. <a href:"http://www.fao.org/3/a0100e/a0100e00.htm#Contents" target="_blank">http://www.fao.org/3/a0100e/a0100e00.htm#Contents<a/>.</p>
+## Additional Resources
+
+Bot, A. and J. Benites. 2005. The Importance of Soil Organic Matter - Key to drought-resistant soil and sustained food production. FAO Soils Bulletin 80. <a href:"http://www.fao.org/3/a0100e/a0100e00.htm#Contents" target="_blank">http://www.fao.org/3/a0100e/a0100e00.htm#Contents<a/>.
 
