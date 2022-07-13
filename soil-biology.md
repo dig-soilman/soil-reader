@@ -613,44 +613,38 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <h3>Fractionation of the Soil Organic Matter</h3>
 
-	<p>The larger sized SOM fraction (call these the macroorganics) in soils can be separated by sieving or placing the sample in water. The organic matter is much lower in density and much of it tends to float while the mineral fraction will sink.</p>
+<p>The larger sized SOM fraction (call these the macroorganics) in soils can be separated by sieving or placing the sample in water. The organic matter is much lower in density and much of it tends to float while the mineral fraction will sink.</p>
 	
-	<p>The <b>microorganics</b> SOM is further divided. One way to look at the microorganics is separating dissolved verses not-dissolved. Subtracting the macroorganics and the dissolved microorganics is a working definition of humus.</p>
+<p>The <b>microorganics</b> SOM is further divided. One way to look at the microorganics is separating dissolved verses not-dissolved. Subtracting the macroorganics and the dissolved microorganics is a working definition of humus.</p>
 	
-	<dl>
-		<dt>Humus</dt>
-			<dd>The well decomposed, more or less stable part of the organic matter in mineral soils that accumulates as a by-product of decomposition of plant or animal residues (added to soil). The term is often used synonymously with soil organic matter.</dd>
-			<dd>Humus is a complex and rather resistant (stable) mixture of dark brown to black colloidal organic substances that results from microbial decomposition and synthesis.</dd>
+<dl><dt>Humus</dt>
+	<dd>The well decomposed, more or less stable part of the organic matter in mineral soils that accumulates as a by-product of decomposition of plant or animal residues (added to soil). The term is often used synonymously with soil organic matter.</dd>
+	<dd>Humus is a complex and rather resistant (stable) mixture of dark brown to black colloidal organic substances that results from microbial decomposition and synthesis.</dd>
 	</dl>
 	
-	<p>The first fractionation of <b>humus</b> is separating the identifiable compounds from the unidentifiable. Next the humus is treated with strong NaOH and the humus that is insoluble in that alkaline solution is termed <u>humin</u>. The solubilized fraction is then acidified and the insoluble portion is termed <u>humic acid</u>. The remaining soluble fraction of organic matter is called <u>fulvic acid</u>.
+<p>The first fractionation of <b>humus</b> is separating the identifiable compounds from the unidentifiable. Next the humus is treated with strong NaOH and the humus that is insoluble in that alkaline solution is termed <u>humin</u>. The solubilized fraction is then acidified and the insoluble portion is termed <u>humic acid</u>. The remaining soluble fraction of organic matter is called <u>fulvic acid</u>.
 		
-	<p>Because it is complex it is operationally defined as outlined in the following diagram.</p>
+<p>Because it is complex it is operationally defined as outlined in the following diagram.</p>
 	
-	<figure>
-		<img src="images/SOMfractions.png" style="width:548px;height:442px">
-		<figcaption>Above is the operational definitions of humus via flow diagram. After M. H. B. Hayes and R. S. Swift. 1978. The chemistry of soil organic colloids. In D. J. Greenland and M. H. B. Hayes (eds.), The Chemistry of Soil Constituents. New York: Wiley.</figcaption>
-	</figure>
+<figure>
+<img src="images/SOMfractions.png" style="width:548px;height:442px">
+<figcaption>Above is the operational definitions of humus via flow diagram. After M. H. B. Hayes and R. S. Swift. 1978. The chemistry of soil organic colloids. In D. J. Greenland and M. H. B. Hayes (eds.), The Chemistry of Soil Constituents. New York: Wiley.</figcaption>
+</figure>
 	
-	<p>The Identifiable and relatively unaltered organic debris are not considered to be as chemically and physically reactive as the humus. Humus has lost all the visible features of the organics from which it decomposed from. Its further decomposition is much slower and it is said to be more stable. It is dark-colored and may be a by-product of decomposition of plant or animal residues added to soil. The term, humus, is often used synonymously with soil organic matter.</p>
+<p>The Identifiable and relatively unaltered organic debris are not considered to be as chemically and physically reactive as the humus. Humus has lost all the visible features of the organics from which it decomposed from. Its further decomposition is much slower and it is said to be more stable. It is dark-colored and may be a by-product of decomposition of plant or animal residues added to soil. The term, humus, is often used synonymously with soil organic matter.</p>
   
-	<p>It has been useful to further separate the Humus into <b>humic acid</b>, <b>fulvic acid</b>, and <b>humin</b>.</p> 
+<p>It has been useful to further separate the Humus into <b>humic acid</b>, <b>fulvic acid</b>, and <b>humin</b>.</p> 
 	
-	<dl>
-		<dt>Humic acid</dt>
-			<dd>consists of organic materials that are soluble in alkaline solution but insoluble on acidification of the alkaline extracts. This component is an acid because hydrogen ions at the surface of these complex molecules can be displaced by other cations such as calcium, magnesium, potassium, or sodium. By definition, any compound that participates in contributions of hydrogen to solution is an acid.</dd>
-	</dl>
-	<dl>
-		<dt>Fulvic acid</dt>
-			<dd>compounds are soluble in an alkaline solution and remained in solution when the alkaline extract is acidified. Sodium hydroxide (NaOH) in solution is an example of alkaline solution that extracts humic and fulvic acids.</dd>
-	</dl>
+<dl>
+	<dt>Humic acid</dt>
+	<dd>consists of organic materials that are soluble in alkaline solution but insoluble on acidification of the alkaline extracts. This component is an acid because hydrogen ions at the surface of these complex molecules can be displaced by other cations such as calcium, magnesium, potassium, or sodium. By definition, any compound that participates in contributions of hydrogen to solution is an acid.</dd
+	<dt>Fulvic acid</dt>
+	<dd>compounds are soluble in an alkaline solution and remained in solution when the alkaline extract is acidified. Sodium hydroxide (NaOH) in solution is an example of alkaline solution that extracts humic and fulvic acids.</dd>
+	<dt>Humin</dt>
+	<dd>is operationally defined fraction of humus that is insoluble in the alkaline solution.</dd>
+</dl>
   
-	<dl>
-		<dt>Humin</dt>
-			<dd>is operationally defined fraction of humus that is insoluble in the alkaline solution.</dd>
-	</dl>
-  
-	<p>The table of Humic Substances Properties demonstrates a trend toward higher weight compounds from fulvic acid through humic acid to humin. This continuum toward weight compounds likely indicates increasing resemblance to the complex aromatic polymer lignin.</p>
+<p>The table of Humic Substances Properties demonstrates a trend toward higher weight compounds from fulvic acid through humic acid to humin. This continuum toward weight compounds likely indicates increasing resemblance to the complex aromatic polymer lignin.</p>
 	
   
 <table>
