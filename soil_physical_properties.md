@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Physical Properties
-subtitle: Soil Physical Properties
+title: Soil Physical Properties
+subtitle: Physical Properties
 tags: welcoming
 comments: false
 ---
