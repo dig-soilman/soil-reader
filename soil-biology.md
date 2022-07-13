@@ -265,11 +265,11 @@ The organisms themselves not only channel energy, but they leave behind energeti
 
 <ul>
 	<li><strong>Roots</strong> of higher plants are a major source of organic matter in soils, especially in grassland soils.</li>
-	<li><strong><a href="https://enviro-soil.com/soils101/includes/Glossary.html#rhizosphere">Rhizosphere</a></strong> is the zone of soil significantly influenced by living roots (≓2 mm zone around root); this zone has a lower pH, higher organic matter (root exudates) and increased microbial activity.</li>
+	<li><strong>Rhizosphere</strong> is the zone of soil significantly influenced by living roots (≓2 mm zone around root); this zone has a lower pH, higher organic matter (root exudates) and increased microbial activity.</li>
 </ul>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#algae">Algae</a></dt>
+	<dt>Algae</dt>
 	<dd>An aquatic, eucaryotic, plantlike, photosynthetic organism, mostly microscopic, often single celled.</dd>
 </dl>
 
@@ -278,7 +278,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 </ul>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#lichen">Lichens</a></dt>
+	<dt>Lichens</dt>
 	<dd>Symbiosis between fungi and algae or bluegreen bacteria, commonly forming a flat, spreading growth on surfaces of rocks, tree trunks, and soil.</dd>
 </dl>
 
@@ -287,7 +287,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 </ul>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#fungi">Fungi</a></dt>
+	<dt>Fungi</dt>
 	<dd>Eukaryote microorganisms with a rigid cell wall. Some form long filaments of cells called hyphae that may grow together to form a visible body.</dd>
 </dl>
 
@@ -299,33 +299,33 @@ The organisms themselves not only channel energy, but they leave behind energeti
 </ul>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#mycorrhizae">Mycorrhizae</a></dt>
+	<dt>Mycorrhizae</dt>
 	<dd>A, usually, symbiotic association between fungi and the root of a higher plant.</dd>
 </dl>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#ectomycorrhiza">Ectomycorrhiza</a></dt>
-	<dd>A symbiotic association between fungi and plant root. Hyphae form a sheath around the root but the hyphae form an entirely intercellular interface&ndash;no cell penetration&ndash;between epidermal and cortical root cells (<a href="https://enviro-soil.com/soils101/includes/Glossary.html#HartigNet">Hartig net</a>).</dd>
+	<dt>Ectomycorrhiza</dt>
+	<dd>A symbiotic association between fungi and plant root. Hyphae form a sheath around the root but the hyphae form an entirely intercellular interface&ndash;no cell penetration&ndash;between epidermal and cortical root cells (Hartig net).</dd>
 </dl>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#endomycorrhiza">Endomycorrhiza</a></dt>
+	<dt>Endomycorrhiza</dt>
 	<dd>A Symbiotic association between fungi and plant root. Hyphae penetrate directly into root hairs and epidermal cells and oasionally into cortical cells.</dd>
 </dl>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#arbuscularMycorrhiza">Arbuscular enodmycorrhiza</a></dt>
+	<dt>Arbuscular enodmycorrhiza</dt>
 	<dd>The fungal hyphae also form a structure known as a Hartig Net into the outer cortical cells similar to ectomycorhiza. The sheath can also function as a place to store excess nutrients, at times when nutrient levels are running low the fungi can release the stored nutrients into the plant. The major difference between ectomycorrhizal fungi and arbutoid fungi is that the hyphae of the arbutoid fungi do in fact penetrate the outer cortical cells of the plant root forming <em>arbuscules</em> within the plant cell.</dd>
 </dl>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#symbiosis">Symbiosis</a></dt>
+	<dt>Symbiosis</dt>
 	<dd>Two dissimilar organisms living together in intimate association; the cohabitation is often mutually beneficial to each organism.</dd>
 	<dd>Fungi receive sugars and other organic exudates from root for use as food. In return the fungi provides the roots with enhanced availability of several essential nutrients (<em>e.g.,</em> phosphorus, copper, and iron), increased amounts of water, and protection from some pathogens (from antibiotics) and toxic metals. The increased water and nutrient availability is thought to result from the increased surface area provided by the fine filamentous hyphae of the fungi (approx. 10 times the surface area of the root alone) and by production of organic acids, chelates and enzymes by the fungi.</dd>
 </dl>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#actinomycetes">Actinomycetes</a></dt>
+	<dt>Actinomycetes</dt>
 	<dd>Filamentous and profusely branched bacteria that form a thin, elongated, connect and branching pattern similar in appearance to fungal hyphae. Phylum <em>Actionbacteria</em>, order <em>Actinomycetales</em>.</dd>
 	<dd>Actinomycetes perform symbiotic N fixation in woody plant (<em>e.g.,</em> alder and ceanothus) and they produce many wonder drugs (streptomycin).</dd>
 </dl>
@@ -336,7 +336,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 </dl>
 
 <dl>
-	<dt><a href="https://enviro-soil.com/soils101/includes/Glossary.html#bacteria">Bacteria</a></dt>
+	<dt>Bacteria</dt>
 	<dd>One of two domains of single celled organisms. These microorganisms are prokaryotes and have no cell nucleus.</dd>
 </dl>
 
@@ -454,10 +454,10 @@ The organisms themselves not only channel energy, but they leave behind energeti
 <h3>Role in soil biochemical reactions:</h3>
 
 <ol>
-	<li>Nitrification NH₄⁺ + 2&thinsp;O₂ ⟶ NO₃&macr; + H₂O + 2&thinsp;H⁺</li>
-	<li>Oxidation/Reduction of inorganic elements:</li>
-	<li>Fe&sup3;⁺⟶ Fe&sup2;⁺</li>
-	<li>NO₃&macr; ⟶ N₂ (gas) (denitrification)</li>
+<li>Nitrification NH₄⁺ + 2&thinsp;O₂ ⟶ NO₃&macr; + H₂O + 2&thinsp;H⁺</li>
+<li>Oxidation/Reduction of inorganic elements:</li>
+<li>Fe&sup3;⁺⟶ Fe&sup2;⁺</li>
+<li>NO₃&macr; ⟶ N₂ (gas) (denitrification)</li>
 </ol>
 
 <a name="Deleterious.effects.of.soil.organisms"></a>
@@ -627,7 +627,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 	<p>Because it is complex it is operationally defined as outlined in the following diagram.</p>
 	
 	<figure>
-		<img src="http://enviro-soil.com/soils101/images/SOMfractions.png" style="width:548px;height:442px" />
+		<img src="images/SOMfractions.png" style="width:548px;height:442px" />
 		<figcaption>Above is the operational definitions of humus via flow diagram. After M. H. B. Hayes and R. S. Swift. 1978. The chemistry of soil organic colloids. In D. J. Greenland and M. H. B. Hayes (eds.), The Chemistry of Soil Constituents. New York: Wiley.</figcaption>
 	</figure>
 	
@@ -738,7 +738,7 @@ The organisms themselves not only channel energy, but they leave behind energeti
 			</ol>
 		<li>Moisture and Aeration</li>  
 			<ol> 
-				<li><a href="https://enviro-soil.com/soils101/includes/Glossary.html#anaerobic">Anaerobic</a> metabolism is slower than <a href="https://enviro-soil.com/soils101/includes/Glossary.html#aerobic">aerobic</a> metabolism</li>
+				<li>Anaerobic metabolism is slower than aerobic metabolism</li>
 				<li>Anaerobic metabolism produces more compounds that are toxic to a wide spectrum of microbes</li>
 			</ol>  
 		<li>pH</li>
