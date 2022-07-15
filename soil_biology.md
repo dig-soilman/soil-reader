@@ -3,8 +3,6 @@ title: Soil Biology
 subtitle: Biologicals
 tags: welcoming
 comments: false
----
----
 author: Donald G. McGahan
 lang: en
 Date: 2007
@@ -19,6 +17,8 @@ viewport: width=device-width, initial-scale=1
 
 
 Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) 
+
+This document is ported from an html version an html version.
 
 Separating the physical soil properties from biologically mediated properties---at times---helps understanding of the biologicals themselves, and the soil. 
 
@@ -376,10 +376,16 @@ Metabolism rarely encounters only something as simple as the sugar (C₆H₁₂O
 
 Plant mass is 60% to 90% water. The remaining dry matter is dominated by carbon, oxygen, and hydrogen. 
 
- Element Amount  ---------- ---------  carbon 42%  oxygen 42%  hydrogen 7 to 8%  nitrogen  1%  ash^†^ 8% 
+ | Element        | Amount |
+ |:---------------| -------|
+ |     carbon     |   42%  |
+ |     oxygen     |   42%  |
+ |    hydrogen    | 7 to 8%|
+ |    nitrogen    |    1%  |
+ |ash<sup>†</sup> |    8%  |
 
  : Table \-- Listing the composition of plants as percentage of mass  basis. 
-^†^Plant residue *ash* is composed of inorganic elements such as Ca, Mg, K (Ash as in the stuff that accumulates at the bottom of the fireplace). 
+<sup>†</sup>Plant residue *ash* is composed of inorganic elements such as Ca, Mg, K (Ash as in the stuff that accumulates at the bottom of the fireplace). 
 
 Most soils have less than 5% organic matter by weight. The amount of organic matter found in a soil is a balance between organic matter [production]{.underline}production and [decomposition]{.underline}. 
 
