@@ -430,7 +430,7 @@ The first fractionation of **humus** is separating the identifiable compounds fr
 
 Because it is complex it is operationally defined as outlined in the following diagram. 
 
-![Above is the operational definitions of humus via flow diagram. After M. H. B. Hayes and R. S. Swift. 1978. The chemistry of soil organic colloids. In D. J. Greenland and M. H. B. Hayes (eds.), The Chemistry of Soil Constituents. New York: Wiley.](../images/SOMfractions.png){style="width:548px;height:442px"} 
+![Above is the operational definitions of humus via flow diagram. After M. H. B. Hayes and R. S. Swift. 1978. The chemistry of soil organic colloids. In D. J. Greenland and M. H. B. Hayes (eds.), The Chemistry of Soil Constituents. New York: Wiley.](./images/SOMfractions.png){style="width:548px;height:442px"} 
 
 The Identifiable and relatively unaltered organic debris are not considered to be as chemically and physically reactive as the humus. Humus has lost all the visible features of the organics from which it decomposed from. Its further decomposition is much slower and it is said to be more stable. It is dark-colored and may be a by-product of decomposition of plant or animal residues added to soil. The term, humus, is often used synonymously with soil organic matter. 
 
