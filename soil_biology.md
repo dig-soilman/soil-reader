@@ -105,9 +105,9 @@ While the following treatment is decidedly not a discussion of biotics, the info
 
 Soil texture (particle size distribution), structure (particle arrangement), and depth of [pedon](Glossary.html#pedon) all influence the flow and quality of underground and surface water and the environmental behavior of hazardous chemicals. These three soil properties largely control the land's ability to: 
 
--   Take in, retain, and release water.
--   Maintain plant cover and resist erosion.
--  Retain, destroy, or leak hazardous materials from spills, waste disposals, pesticides, and fertilizers. 
+- Take in, retain, and release water.
+- Maintain plant cover and resist erosion.
+- Retain, destroy, or leak hazardous materials from spills, waste disposals, pesticides, and fertilizers. 
 
 The extensive charged surfaces of clay minerals and humus give soils the ability to retain toxic compounds, as well as water and plant nutrients, which should otherwise readily leave the soil and pass into groundwater. So fine-textured soils, with high clay content, usually retain nutrients and toxins better than do course-textured soils. Likewise, retention tends to increase with increasing soil thickness. But few soils effectively retain loosely held ions such as nitrate and chloride, which accordingly move readily to the groundwater. 
 
@@ -157,30 +157,30 @@ Heterotroph
 
 #### Earthworms - \>7000 species; some are up to 10 feet long!
 
--   ingest organic matter and microorganisms for their nutrition
--   ingest a weight of soil 2 to 30 times their own weight each day
--  thrive in the upper 15 to 35 cm of moist, well aerated soils with high calcium and moderate pH values (5.5 to 8.5) 
+- ingest organic matter and microorganisms for their nutrition
+- ingest a weight of soil 2 to 30 times their own weight each day
+- thrive in the upper 15 to 35 cm of moist, well aerated soils with high calcium and moderate pH values (5.5 to 8.5) 
 
 #### Termites - ≓ 2000 species;
 
--   major roles are breakdown of organic matter and mixing of soil
--  most prominent in grasslands and forests of the tropical and subtropical areas 
--   microorganisms in their gut assist in the decomposition process
--  bacteria in their guts are responsible for a large fraction of the global production of methane, an important greenhouse gas. 
+- major roles are breakdown of organic matter and mixing of soil
+- most prominent in grasslands and forests of the tropical and subtropical areas 
+- microorganisms in their gut assist in the decomposition process
+- bacteria in their guts are responsible for a large fraction of the global production of methane, an important greenhouse gas. 
 
 #### Ants - ≓ 9000 species
 
--   especially active in humid tropical areas
--  feed on organic matter, living plant tissue or other soil organisms 
+- especially active in humid tropical areas
+- feed on organic matter, living plant tissue or other soil organisms 
 
 []{#Important.roles.of.macroanimals} 
 
 #### Important roles of macroanimals
 
-1.  Physically breakdown organic materials exposing more surface area
-2.  Increase aeration and improve drainage
-3.  Mix and granulate the soil
-4.  Increase the size and stability of soil aggregates 
+1. Physically breakdown organic materials exposing more surface area
+2. Increase aeration and improve drainage
+3. Mix and granulate the soil
+4. Increase the size and stability of soil aggregates 
 
 []{#Some.examples.of.Soil.Microanimals} 
 
@@ -188,16 +188,16 @@ Heterotroph
 
 #### Nematodes - 4-100 μm in cross-section and a few millimeters in length
 
--  most are predatory on other nematodes, fungi, bacteria, etc., but some infect (eat) the roots of plants and may cause crop damage 
+- most are predatory on other nematodes, fungi, bacteria, etc., but some infect (eat) the roots of plants and may cause crop damage 
 
 #### Protozoa - ≓ 350 species; 6 - 10 μm in diameter
 
--  primarily eat soil bacteria by capturing and engulfing them; many cause serious animal and human diseases 
+- primarily eat soil bacteria by capturing and engulfing them; many cause serious animal and human diseases 
 
 Soil Plants 
 
--  **Roots** of higher plants are a major source of organic matter in soils, especially in grassland soils. 
--  **[Rhizosphere](Glossary.html#rhizosphere)** is the zone of soil significantly influenced by living roots (≓2 mm zone around root); this zone has a lower pH, higher organic matter (root exudates) and increased microbial activity. 
+- **Roots** of higher plants are a major source of organic matter in soils, especially in grassland soils. 
+- **[Rhizosphere](Glossary.html#rhizosphere)** is the zone of soil significantly influenced by living roots (≓2 mm zone around root); this zone has a lower pH, higher organic matter (root exudates) and increased microbial activity. 
 
 [Algae](Glossary.html#algae)
 :  An aquatic, eucaryotic, plantlike, photosynthetic organism, mostly microscopic, often single celled. 
