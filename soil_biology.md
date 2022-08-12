@@ -207,15 +207,15 @@ Soil Plants
 [Lichens](Glossary.html#lichen)
 :  Symbiosis between fungi and algae or bluegreen bacteria, commonly forming a flat, spreading growth on surfaces of rocks, tree trunks, and soil. 
 
--  Soil stabilization. 
+- Soil stabilization. 
 
 [Fungi](Glossary.html#fungi)
 :  Eukaryote microorganisms with a rigid cell wall. Some form long filaments of cells called hyphae that may grow together to form a visible body. 
 
--   Tens of thousands of species; most are heterotrophs
--   dominant microorganism under acidic conditions
--   many cause disease in plants (damping off disease)
--  some produce valuable antibiotics (penicillin) 
+- Tens of thousands of species; most are heterotrophs
+- dominant microorganism under acidic conditions
+- many cause disease in plants (damping off disease)
+- some produce valuable antibiotics (penicillin) 
 
 [Mycorrhizae](Glossary.html#mycorrhizae)
 :  A, usually, symbiotic association between fungi and the root of a higher plant. 
@@ -243,16 +243,16 @@ Archaea
 [Bacteria](Glossary.html#bacteria)
 :  One of two domains of single celled organisms. These microorganisms are prokaryotes and have no cell nucleus. 
 
--   ≓ 0.5 to 5 μm
--   most diverse group of soil organisms
--   single celled
--   1 gram of soil typically contains 20,000 different species
--   adapted to the most extreme environments on Earth
--   a soil may contain more than 2 trillion per kilogram
--   both autotrophic and heterotrophic
--   can double their population in 2-3 hours
--   Rhizobium species - nitrogen fixers on legumes
--  cyanobacteria (formerly known as blue-green algae) can fix large amounts of atmospheric nitrogen (e.g., rice fields) 
+- ≓ 0.5 to 5 μm
+- most diverse group of soil organisms
+- single celled
+- 1 gram of soil typically contains 20,000 different species
+- adapted to the most extreme environments on Earth
+- a soil may contain more than 2 trillion per kilogram
+- both autotrophic and heterotrophic
+- can double their population in 2-3 hours
+- Rhizobium species - nitrogen fixers on legumes
+- cyanobacteria (formerly known as blue-green algae) can fix large amounts of atmospheric nitrogen (e.g., rice fields) 
 
 []{#Optimum.conditions.for.growth.of.bacteria} 
 
@@ -304,8 +304,8 @@ These can also be used to categorize the organisms.
 ### Important beneficial activities of soil organisms
 
 1.  Decomposition of organic residues with release of nutrient elements (mineralization) 
-    -   Organic Matter + O₂ ⟶ CO₂ + H₂O (The respiration process)
-    -   Organic Matter ⟶ nutrients (Mineralization process)
+    - Organic Matter + O₂ ⟶ CO₂ + H₂O (The respiration process)
+    - Organic Matter ⟶ nutrients (Mineralization process)
 2.  Formation of soil humus through decomposition and synthesis reactions Organic Matter ⟶ humus (Humus formation process) 
 3.  Improvement of soil physical properties (*e.g.,* soil structure, drainage, aeration, bulk density) 
 4.  Release of plant nutrients from insoluble inorganic soil minerals (production of chelates) 
